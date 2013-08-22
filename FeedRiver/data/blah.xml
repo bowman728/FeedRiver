@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="http://www.sciencefriday.com/css/rssfeed.css" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Science Friday Audio Podcast</title>
+		<link>http://www.sciencefriday.com</link>
+		<atom:link href="http://www.sciencefriday.com/iowa/audio/scifriaudio.xml" rel="self" type="application/rss+xml"/>
+		<description>
+			Science Friday, as heard on NPR, is a weekly discussion of the latest news in science, technology, health, and the environment hosted by Ira Flatow.  Ira interviews scientists, authors, and policymakers, and listeners can call in and ask questions as well. Hear it each week on NPR stations nationwide -- or online!
+		</description>
+		<category>Science &amp; Medicine</category>
+		<pubDate>Fri, 9 Aug 2013 21:10:33 GMT</pubDate>
+		<lastBuildDate>Fri, 9 Aug 2013 21:10:33 GMT</lastBuildDate>
+		<language>en-US</language>
+		<copyright>2013 ScienceFriday Inc</copyright>
+		<generator/>
+		<managingEditor>podcast@sciencefriday.com (Ira Flatow)</managingEditor>
+		<webMaster>podcast@sciencefriday.com (Science Friday)</webMaster>
+		<ttl>60</ttl>
+		<itunes:author>Science Friday</itunes:author>
+		<itunes:subtitle>Science Friday is a discussion of the latest news in science, tech, health, and the environment hosted by Ira Flatow. We interview scientists, authors, and policymakers, and take your questions. Hear it weekly on NPR stations nationwide, or online here!</itunes:subtitle>
+		<itunes:category text="Science &amp; Medicine"></itunes:category>
+		<itunes:category text="News &amp; Politics"></itunes:category>
+		<itunes:summary>Science Friday, as heard on NPR, is a weekly discussion of the latest news in science, technology, health, and the environment hosted by Ira Flatow. Ira interviews scientists, authors, and policymakers, and listeners can call in and ask questions as well. Watch the latest science videos from the Science Friday website.</itunes:summary>
+		<itunes:keywords>
+			Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+		</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Ira Flatow</itunes:name>
+			<itunes:email>podcast@sciencefriday.com (Ira Flatow)</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png"/>
+		<image>
+			<url>
+				http://assets.libsyn.com/images/sciencefriday/Podcast600.png
+			</url>
+			<title>Science Friday audio Podcast</title>
+			<link>http://www.sciencefriday.com</link>
+		</image>
+		
+									<item>
+							<title><![CDATA[SciFri: New Vaccine Beats Malaria in Early Trials]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308091.mp3</link>
+							<description><![CDATA[The vaccine offered complete protection against malaria in a small trial, but only after five doses.]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308091.mp3" length="5014406" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[The vaccine offered complete protection against malaria in a small trial, but only after five doses.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[The vaccine offered complete protection against malaria in a small trial, but only after five doses.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:06:53</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308091.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Reading, Writing, 'Rithmetic . . . and Respect? ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308092.mp3</link>
+							<description><![CDATA[Some experts say teaching emotional literacy in school is key to better behavior—and better grades.]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308092.mp3" length="16639107" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Some experts say teaching emotional literacy in school is key to better behavior—and better grades.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Some experts say teaching emotional literacy in school is key to better behavior—and better grades.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:23:01</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308092.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Comet Dust Brings a Spectacular Sky Show ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308093.mp3</link>
+							<description><![CDATA[The annual Perseid meteor shower, produced by remnants of the Swift-Tuttle comet, is back.]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308093.mp3" length="8269148" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[The annual Perseid meteor shower, produced by remnants of the Swift-Tuttle comet, is back.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[The annual Perseid meteor shower, produced by remnants of the Swift-Tuttle comet, is back.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:24</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308093.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Desktop Diaries: Tim White]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308094.mp3</link>
+							<description><![CDATA[This office is not short on artifacts. ]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308094.mp3" length="4248193" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[This office is not short on artifacts. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[This office is not short on artifacts. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:05:49</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308094.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Flexible Insect Protein Inspires Super Rubber ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308095.mp3</link>
+							<description><![CDATA[Flexible insect protein surpasses the best synthetic rubbers.]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308095.mp3" length="8916752" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Flexible insect protein surpasses the best synthetic rubbers.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Flexible insect protein surpasses the best synthetic rubbers.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:12:18</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308095.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Biting Into the First In Vitro Burger]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308096.mp3</link>
+							<description><![CDATA[A laboratory lunch over the first in vitro burger.<br>]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308096.mp3" length="12876166" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A laboratory lunch over the first in vitro burger.<br>]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A laboratory lunch over the first in vitro burger.<br>]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:48</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308096.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Climate Update: Warming Temperatures]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308097.mp3</link>
+							<description><![CDATA[A look at the social and environmental impacts of global warming worldwide.]]></description>
+							<pubDate>Thu, 08 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308097.mp3" length="12746412" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A look at the social and environmental impacts of global warming worldwide.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A look at the social and environmental impacts of global warming worldwide.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:37</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308097.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Smartening Your TV With Google Chromecast ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308021p.mp3</link>
+							<description><![CDATA[How does Google Chromecast fit into the media streaming market?]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308021p.mp3" length="4411881" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[How does Google Chromecast fit into the media streaming market?]]></itunes:summary>
+							<itunes:subtitle><![CDATA[How does Google Chromecast fit into the media streaming market?]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:06:03</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308021p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Hacking Under the Hood and Into Your Car]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308022.mp3</link>
+							<description><![CDATA[More computerized features in your car mean more hacking vulnerabilities.]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308022.mp3" length="9940863" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[More computerized features in your car mean more hacking vulnerabilities.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[More computerized features in your car mean more hacking vulnerabilities.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:13:43</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308022.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Some Ground-Dwelling Dinos Had the Brains to Fly]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308023.mp3</link>
+							<description><![CDATA[Even <em>Archaeopteryx</em>'s non-flying cousins had the motor and visual skills needed for flight.]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308023.mp3" length="6846317" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Even <em>Archaeopteryx</em>'s non-flying cousins had the motor and visual skills needed for flight.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Even <em>Archaeopteryx</em>'s non-flying cousins had the motor and visual skills needed for flight.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:09:25</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308023.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Meet Nasutoceratops: Big-Nose Horned Face]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308024p.mp3</link>
+							<description><![CDATA[Researchers dug up a new relative of <em>Triceratops</em> in the Utah desert. Its distinction? A huge nose.]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308024p.mp3" length="8400187" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers dug up a new relative of <em>Triceratops</em> in the Utah desert. Its distinction? A huge nose.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers dug up a new relative of <em>Triceratops</em> in the Utah desert. Its distinction? A huge nose.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:35</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308024p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Engineering in Service of a Dark Art]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308025.mp3</link>
+							<description><![CDATA[A biologist takes shadow puppetry to the next level. ]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308025.mp3" length="3292780" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A biologist takes shadow puppetry to the next level. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A biologist takes shadow puppetry to the next level. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:04:29</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308025.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: For Asteroid Ideas, NASA Looks to the Crowd]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308026.mp3</link>
+							<description><![CDATA[When NASA asked the public for ideas on tracking and exploring asteroids, the agency received more than 400 ideas. ]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308026.mp3" length="8576063" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[When NASA asked the public for ideas on tracking and exploring asteroids, the agency received more than 400 ideas. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[When NASA asked the public for ideas on tracking and exploring asteroids, the agency received more than 400 ideas. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:50</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308026.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Teaching Newton's Laws Through Rhyme]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308027.mp3</link>
+							<description><![CDATA[Science teacher Christopher Emdin knows how to get his students interested in science: Rap about it. ]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308027.mp3" length="12740480" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Science teacher Christopher Emdin knows how to get his students interested in science: Rap about it.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Science teacher Christopher Emdin knows how to get his students interested in science: Rap about it.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:37</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308027.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Reexamining the Definition of Cancer ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308028p.mp3</link>
+							<description><![CDATA[Will redefining cancer help prevent overdiagnosis and overtreatment?]]></description>
+							<pubDate>Thu, 01 Aug 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308028p.mp3" length="12457699" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Will redefining cancer help prevent overdiagnosis and overtreatment?]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Will redefining cancer help prevent overdiagnosis and overtreatment?]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:13</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201308028p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Melding Two Memories Into One]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307261p.mp3</link>
+							<description><![CDATA[Researchers linked a mouse's innocuous memory to a fearful one—essentially creating a false memory.]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307261p.mp3" length="8888876" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers linked a mouse's innocuous memory to a fearful one—essentially creating a false memory.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers linked a mouse's innocuous memory to a fearful one—essentially creating a false memory.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:12:16</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307261p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Phil Mickelson Takes a Swing at Science]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307262p.mp3</link>
+							<description><![CDATA[Mickelson, an advocate for math and science education, says science sharpens his golf game, too.]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307262p.mp3" length="17731226" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Mickelson, an advocate for math and science education, says science sharpens his golf game, too.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Mickelson, an advocate for math and science education, says science sharpens his golf game, too.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:24:32</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307262p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: 'Moth-ers' Shine a Light on Nighttime Beauties]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307263.mp3</link>
+							<description><![CDATA[Much-maligned moths are more than the butterfly’s drab cousin.  ]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307263.mp3" length="6553507" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Much-maligned moths are more than the butterfly’s drab cousin.  ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Much-maligned moths are more than the butterfly’s drab cousin.  ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:09:01</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307263.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: MERS Virus Update]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307264.mp3</link>
+							<description><![CDATA[An update on a SARS-like virus centered in the Middle East.]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307264.mp3" length="6946253" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[An update on a SARS-like virus centered in the Middle East.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[An update on a SARS-like virus centered in the Middle East.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:09:34</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307264.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Uncovering the Mystery of J.K. Rowling’s Latest Novel]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307265.mp3</link>
+							<description><![CDATA[Determining an author’s linguistic fingerprint using forensic stylometry. ]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307265.mp3" length="8497975" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Determining an author’s linguistic fingerprint using forensic stylometry. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Determining an author’s linguistic fingerprint using forensic stylometry. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:43</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307265.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: The 'Uncool' Passion of Jonathan Franzen]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307266p.mp3</link>
+							<description><![CDATA[The best-selling novelist has a soft spot for birds.  ]]></description>
+							<pubDate>Thu, 25 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307266p.mp3" length="17357841" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[The best-selling novelist has a soft spot for birds.  ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[The best-selling novelist has a soft spot for birds.  ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:24:01</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307266p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Volcano ‘Screams’ Before Eruption]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307191.mp3</link>
+							<description><![CDATA[Some volcanoes experience a large number of pre-eruption earthquakes.]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307191.mp3" length="" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Some volcanoes experience a large number of pre-eruption earthquakes.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Some volcanoes experience a large number of pre-eruption earthquakes.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:13</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307191.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Capturing the Sounds of Biodiversity]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307192.mp3</link>
+							<description><![CDATA[Researchers created a monitoring system to automatically record and analyze soundscapes of an area.]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307192.mp3" length="12435789" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers created a monitoring system to automatically record and analyze soundscapes of an area.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers created a monitoring system to automatically record and analyze soundscapes of an area.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:11</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307192.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Eruptions on the Sun Set Off 'Solar Tsunamis']]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307193.mp3</link>
+							<description><![CDATA[Scientists use the waves to measure the sun's magnetic field, which is sometimes weaker than a fridge magnet.]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307193.mp3" length="00:05:59" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Scientists use the waves to measure the sun's magnetic field, which is sometimes weaker than a fridge magnet.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Scientists use the waves to measure the sun's magnetic field, which is sometimes weaker than a fridge magnet.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>4308950</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307193.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Astronomers Spot Another Moon Around Neptune]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307194.mp3</link>
+							<description><![CDATA[The newly discovered moon, currently named  S/2004 N 1, is just 12 miles across.]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307194.mp3" length="7750664" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[The newly discovered moon, currently named  S/2004 N 1, is just 12 miles across.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[The newly discovered moon, currently named  S/2004 N 1, is just 12 miles across.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:10:41</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307194.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Fish Oil: Too Much of a Good Thing?]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307195.mp3</link>
+							<description><![CDATA[Researchers linked higher blood levels of omega-3 fatty acids to a higher risk of prostate cancer.]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307195.mp3" length="8613027" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers linked higher blood levels of omega-3 fatty acids to a higher risk of prostate cancer.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers linked higher blood levels of omega-3 fatty acids to a higher risk of prostate cancer.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:11:53</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307195.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: DIY Summer Hacks, From the Pool to the Grill]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307196.mp3</link>
+							<description><![CDATA[Try your hand at homemade sunscreen, water bottle rockets, and “cooler corn.”]]></description>
+							<pubDate>Thu, 18 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307196.mp3" length="24230999" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Try your hand at homemade sunscreen, water bottle rockets, and “cooler corn.”]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Try your hand at homemade sunscreen, water bottle rockets, and “cooler corn.”]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:33:34</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307196.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Not-So-Sweet Side Effects of Artificial Sweeteners  ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307121p.mp3</link>
+							<description><![CDATA[Artificial sweeteners may negatively affect how the body metabolizes sweet foods. ]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307121p.mp3" length="6094471" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Artificial sweeteners may negatively affect how the body metabolizes sweet foods. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Artificial sweeteners may negatively affect how the body metabolizes sweet foods. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:08:28</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307121p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Protecting Your Online Privacy ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307122p.mp3</link>
+							<description><![CDATA[Worried about your online privacy? There are services that can help secure your information.]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307122p.mp3" length="15258749" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Worried about your online privacy? There are services that can help secure your information.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Worried about your online privacy? There are services that can help secure your information.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:21:12</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307122p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: UK Team Plans ET Search]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307123.mp3</link>
+							<description><![CDATA[A newly formed group in the UK will join the search for extraterrestrial intelligence.]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307123.mp3" length="7720556" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A newly formed group in the UK will join the search for extraterrestrial intelligence.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A newly formed group in the UK will join the search for extraterrestrial intelligence.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:10:38</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307123.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Desktop Diaries: Jill Tarter]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307124.mp3</link>
+							<description><![CDATA[“People have described my office as an eight-year-old’s daydream,” says SETI scientist Jill Tarter. ]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307124.mp3" length="4269584" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[“People have described my office as an eight-year-old’s daydream,” says SETI scientist Jill Tarter. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[“People have described my office as an eight-year-old’s daydream,” says SETI scientist Jill Tarter. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:05:51</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307124.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Tracking Shifting Sands Along the Nation's Coast ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307125p.mp3</link>
+							<description><![CDATA[Hurricane Sandy tore through New York's Fire Island, setting off debate about coastal management.]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307125p.mp3" length="6026762" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Hurricane Sandy tore through New York's Fire Island, setting off debate about coastal management.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Hurricane Sandy tore through New York's Fire Island, setting off debate about coastal management.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:08:22</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307125p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Surf's Up for Pathogenic Viruses and Bacteria, Too]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307126p.mp3</link>
+							<description><![CDATA[A gulp of seawater can expose swimmers to pathogens like norovirus, salmonella, and adenovirus.]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307126p.mp3" length="12103680" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A gulp of seawater can expose swimmers to pathogens like norovirus, salmonella, and adenovirus.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A gulp of seawater can expose swimmers to pathogens like norovirus, salmonella, and adenovirus.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:16:49</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307126p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Mysterious Radio Bursts, Sent From Deep Space]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307127.mp3</link>
+							<description><![CDATA[Physicists say the distant radio blasts could be traces of evaporating black holes.]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307127.mp3" length="6075488" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Physicists say the distant radio blasts could be traces of evaporating black holes.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Physicists say the distant radio blasts could be traces of evaporating black holes.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:08:21</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307127.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Trying to Energize the Push for a Smart Grid]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307128.mp3</link>
+							<description><![CDATA[Can the country build an electrical system that can better adapt to a range of changing conditions?]]></description>
+							<pubDate>Thu, 11 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307128.mp3" length="8748132" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Can the country build an electrical system that can better adapt to a range of changing conditions?]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Can the country build an electrical system that can better adapt to a range of changing conditions?]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:12:04</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307128.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Is Alternative Medicine Really 'Medicine'?]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307051.mp3</link>
+							<description><![CDATA[In his new book, Paul Offit writes that many alternative treatments are unproven, or worse, harmful.]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307051.mp3" length="21011376" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[In his new book, Paul Offit writes that many alternative treatments are unproven, or worse, harmful.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[In his new book, Paul Offit writes that many alternative treatments are unproven, or worse, harmful.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:29:06</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307051.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Building a Liver From Stem Cells]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307052.mp3</link>
+							<description><![CDATA[Researchers say they have created a functional human liver using induced pluripotent stem cells.]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307052.mp3" length="7261341" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers say they have created a functional human liver using induced pluripotent stem cells.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers say they have created a functional human liver using induced pluripotent stem cells.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:10:00</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307052.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Writing Tunes to Tune In To]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307053.mp3</link>
+							<description><![CDATA[A behind-the-notes look at the creation of Science Friday’s new theme music.  ]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307053.mp3" length="5671399" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[A behind-the-notes look at the creation of Science Friday’s new theme music.  ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[A behind-the-notes look at the creation of Science Friday’s new theme music.  ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:07:47</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307053.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Can White Blood Cells Spread Cancer?]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307054.mp3</link>
+							<description><![CDATA[Researchers say they may have found a new way that cancer spreads. ]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307054.mp3" length="5714345" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers say they may have found a new way that cancer spreads. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers say they may have found a new way that cancer spreads. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:07:51</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307054.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: With Rising Temperatures, Infrastructure Falters ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307055.mp3</link>
+							<description><![CDATA[Hot weather means more than just sweaty brows and a yearning for the pool.]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307055.mp3" length="10337412" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Hot weather means more than just sweaty brows and a yearning for the pool.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Hot weather means more than just sweaty brows and a yearning for the pool.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:14:16</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307055.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Benjamin Franklin’s Intellectual Revolution ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307056.mp3</link>
+							<description><![CDATA[Benjamin Franklin pushed innovations that set the groundwork for the political and intellectual revolution in America. ]]></description>
+							<pubDate>Thu, 04 Jul 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307056.mp3" length="16975479" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Benjamin Franklin pushed innovations that set the groundwork for the political and intellectual revolution in America. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Benjamin Franklin pushed innovations that set the groundwork for the political and intellectual revolution in America. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:23:29</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201307056.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Aiming For 'Wild and Crazy' Energy Ideas]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306282.mp3</link>
+							<description><![CDATA[The Advanced Research Projects Agency-Energy backs risky ideas that may offer a huge energy payoff.]]></description>
+							<pubDate>Thu, 27 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306282.mp3" length="27754240" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[The Advanced Research Projects Agency-Energy backs risky ideas that may offer a huge energy payoff.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[The Advanced Research Projects Agency-Energy backs risky ideas that may offer a huge energy payoff.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:28:51</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306282.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri:  Living Large in 140 Square Feet]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306283.mp3</link>
+							<description><![CDATA[Chris Tack made seven unloading trips to Goodwill before moving into the tiny home he and his wife Malissa designed and built. ]]></description>
+							<pubDate>Thu, 27 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306283.mp3" length="4181789" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Chris Tack made seven unloading trips to Goodwill before moving into the tiny home he and his wife Malissa designed and built. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Chris Tack made seven unloading trips to Goodwill before moving into the tiny home he and his wife Malissa designed and built. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:05:43</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306283.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: ‘Brainwashed’ Examines the Value of Brain Scans]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306284.mp3</link>
+							<description><![CDATA[What, if anything, can brain scans reveal about the mind at work? ]]></description>
+							<pubDate>Thu, 27 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306284.mp3" length="28849408" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[What, if anything, can brain scans reveal about the mind at work? ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[What, if anything, can brain scans reveal about the mind at work? ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:29:59</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306284.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Not One, but Three ‘Goldilocks Planets'? ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306285.mp3</link>
+							<description><![CDATA[In a nearby solar system, astronomers say they found three planets that could support life. ]]></description>
+							<pubDate>Thu, 27 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306285.mp3" length="12511330" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[In a nearby solar system, astronomers say they found three planets that could support life. ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[In a nearby solar system, astronomers say they found three planets that could support life. ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:17:17</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306285.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Obama: U.S. Should Lead Assault on Climate Change]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306281.mp3</link>
+							<description><![CDATA[Without cooperation from Congress, President Obama has proposed his own plan for climate change.]]></description>
+							<pubDate>Wed, 26 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306281.mp3" length="8951272" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Without cooperation from Congress, President Obama has proposed his own plan for climate change.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Without cooperation from Congress, President Obama has proposed his own plan for climate change.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:12:21</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306281.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Beaming Internet to the Boondocks, Via Balloon]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306211p.mp3</link>
+							<description><![CDATA[Google plans to deliver 3G-speed Internet to the world's most remote corners using helium balloons.]]></description>
+							<pubDate>Thu, 20 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306211p.mp3" length="7288316" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Google plans to deliver 3G-speed Internet to the world's most remote corners using helium balloons.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Google plans to deliver 3G-speed Internet to the world's most remote corners using helium balloons.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:10:02</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306211p.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: A Calculating Win for China's New Supercomputer]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306212.mp3</link>
+							<description><![CDATA[China's new “Milky Way 2” supercomputer is twice as fast as the best American machines.<br>]]></description>
+							<pubDate>Thu, 20 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306212.mp3" length="13303466" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[China's new “Milky Way 2” supercomputer is twice as fast as the best American machines.<br>]]></itunes:summary>
+							<itunes:subtitle><![CDATA[China's new “Milky Way 2” supercomputer is twice as fast as the best American machines.<br>]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:18:23</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306212.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Vegetables Respond to a Daily Clock, Even After Harvest]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306213.mp3</link>
+							<description><![CDATA[Researchers have found that cabbages can maintain a circadian rhythm, even in the store.]]></description>
+							<pubDate>Thu, 20 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306213.mp3" length="7186750" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[Researchers have found that cabbages can maintain a circadian rhythm, even in the store.]]></itunes:summary>
+							<itunes:subtitle><![CDATA[Researchers have found that cabbages can maintain a circadian rhythm, even in the store.]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:09:54</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306213.mp3
+							</guid>
+						</item>
+											<item>
+							<title><![CDATA[SciFri: Coffee’s Natural Creamer ]]></title>
+							<link>http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306214.mp3</link>
+							<description><![CDATA[What’s that frothy stuff that sits on top of an espresso? ]]></description>
+							<pubDate>Thu, 20 Jun 2013 14:00:00 -0400</pubDate>
+							<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306214.mp3" length="4419380" type="audio/mpeg"/>
+							<itunes:author>Science Friday</itunes:author>
+							<itunes:summary><![CDATA[What’s that frothy stuff that sits on top of an espresso? ]]></itunes:summary>
+							<itunes:subtitle><![CDATA[What’s that frothy stuff that sits on top of an espresso? ]]></itunes:subtitle>		
+							<itunes:keywords>
+								Science Friday, scifri, science technology environment health medicine scientist NPR News public radio ira flatow ira plato faltow
+							</itunes:keywords>						
+							<itunes:image href="http://assets.libsyn.com/images/sciencefriday/Podcast600.png" />
+							<itunes:duration>00:06:03</itunes:duration>
+							<guid isPermaLink="false">
+								http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/sciencefriday/scifri201306214.mp3
+							</guid>
+						</item>
+					
+			
+		
+	</channel>
+</rss>

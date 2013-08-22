@@ -1,0 +1,15 @@
+﻿<Window x:Class="FeedRiver.FeedRiverMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FeedRiverMain" Height="480" Width="467">
+	<Grid>
+		<DataGrid x:Name="FeedRiverDataGrid" HorizontalAlignment="Left" Margin="10,82,0,0" VerticalAlignment="Top" Height="316" Width="439" SelectionChanged="FeedRiverDataGrid_SelectionChanged">
+
+			<DataGrid.Columns>
+				<DataGridTextColumn Header="Name"></DataGridTextColumn>
+			</DataGrid.Columns>
+
+		</DataGrid>
+
+	</Grid>
+</Window>

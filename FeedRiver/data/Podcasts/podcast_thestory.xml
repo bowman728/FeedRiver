@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" 
+     xml:base="http://www.thestory.org/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>APM:  The Story</title>
+    <description>
+      The Story with Dick Gordon brings the news home - through
+      passionate points of view and personal experiences. The program brings
+      together ordinary and extraordinary people to provide perspective on the
+      issues which affect us all. Our goal is to inspire conversation, thinking
+      and understanding. Produced at North Carolina Public Radio - WUNC.
+    </description>
+    <link>http://www.thestory.org/</link>
+    <atom:link rel="self" href="http://www.thestory.org/archive/podcast.xml" />
+    <language>en</language>
+    <category>News &amp; Politics</category>
+    <category>Society &amp; Culture</category>
+    <category>Education</category>
+    <image>
+      <url>http://www.thestory.org/sites/default/themes/siteskin/inc/images/podcast.png</url>
+      <title>APM:  The Story</title>
+      <link>http://www.thestory.org/</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <copyright>American Public Media</copyright>
+    <generator>Drupal 7</generator>
+    <itunes:category text="Education" />
+    <itunes:category text="News &amp; Politics" />
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:image
+      href="http://www.thestory.org/sites/default/themes/siteskin/inc/images/podcast-600.png" />
+    <itunes:author>American Public Media</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:email>thestory@wunc.org</itunes:email>
+      <itunes:name>The Story with Dick Gordon</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>This One Goes Out To Kate (6.27.2013)</title>
+      <link>http://www.thestory.org/stories/one-goes-out-kate-6272013</link>
+      <description>
+        &lt;p&gt;Charlene Strong became an activist for equality
+        after she was denied entrance into the hospital of her dying partner
+        Kate. Also in this show: whether tacky legal ads bring down the
+        profession or make it more accessible; and the brave lawyers who make
+        jokes in the toughest room of all: the U.S. Supreme Court.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/6_27_13_thestory_for_kate.mp3"
+        length="24105587" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/one-goes-out-kate-6272013</guid>
+      <pubDate>Thu, 27 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>A Fresh Start (6.26.2013)</title>
+      <link>http://www.thestory.org/stories/fresh-start-6262013</link>
+      <description>
+        &lt;p&gt;Dr. David Ores, a physician known for giving free
+        tattoo removal, says there’s a great need for his services in New York
+        City. Also in this show: a look at the emerging renaissance of sign
+        painters; and personal trainer Bryant Johnson builds the bodies of the
+        law: Justices Ruth Bader Ginsburg and Elena Kagan.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_26_thestory_a_fresh_start_0.mp3"
+        length="24111869" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/fresh-start-6262013</guid>
+      <pubDate>Wed, 26 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Eight Years Old With An AK-47</title>
+      <link>http://www.thestory.org/stories/eight-years-old-ak-47</link>
+      <description>
+        &lt;p&gt;An eight-year-old on the front lines of the Syrian
+        civil war, caught on film. Also in this show: Architect Raphael Sperry
+        asks fellow architects to refuse to design prisons for prolonged
+        solitary confinement, which he says are for “cruel, inhuman, or
+        degrading treatment;&quot; and it took Debra Britt, a lifelong
+        collector of dolls, more than 50 years to find one that looked like
+        her.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_25_thestory_syria.mp3"
+        length="24112334" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/eight-years-old-ak-47</guid>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        Peeping The Cloud: A Journey To The Center Of Cloud Computing
+        (6.24.2013)
+      </title>
+      <link>http://www.thestory.org/stories/peeping-cloud-journey-center-cloud-computing-6242013</link>
+      <description>
+        &lt;p&gt;Guest host Sean Cole joins Benjamen Walker of the
+        Theory of Everything podcast to dissect cloud computing: how it works,
+        what we gain from it, and the Chinese mines that produce the rare
+        elements that powers it.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_24_thestory_rare_earth.mp3"
+        length="24106018" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/peeping-cloud-journey-center-cloud-computing-6242013</guid>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>For Congress Freshman, First Six Months Teach Patience (6.21.2013)</title>
+      <link>http://www.thestory.org/stories/congress-freshman-first-six-months-teach-patience-6212013</link>
+      <description>
+        &lt;p&gt;Six months into his freshman term in congress,
+        Markwayne Mullin talks about refocusing from short-term gains to
+        long-term goals. Also in this show: Carlos Martinez, an immigrant who
+        got a work permit for the first time last year, has finally been able
+        to find a job using his computer engineering degree; Sara Isaacson, an
+        ROTC Cadet dismissed from service because she came out as lesbian,
+        talks about how the repeal of “Don’t Ask, Don’t Tell” allowed her to
+        return to service; two months before his “I Have a Dream” speech in
+        Washington, Dr. Martin Luther King Jr. led the Great March to Freedom
+        in Detroit; and in 1896, Williams Jennings Bryan gave one of the
+        greatest speeches in American politics.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_21_thestory_freshman_in_congress.mp3"
+        length="24103893" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/congress-freshman-first-six-months-teach-patience-6212013</guid>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Shut Off Your Engines Please: One Man’s Mission (6.20.2013)</title>
+      <link>http://www.thestory.org/stories/shut-your-engines-please-one-man-s-mission-6202013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with New Yorker George
+        Pakenham, who asks idling drivers to shut off their engines. Also in
+        this show: Garret Ean likes to drop quarters in expired parking meters
+        – not just out of kindness, but to prevent the city from making money
+        on parking tickets; and long-time Detroit arts patron Harriet Berg
+        talks about meeting Mexican muralist Diego Rivera and her city’s
+        underground art lovers.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_20_thestory_shut_off_your_engines.mp3"
+        length="24101407" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/shut-your-engines-please-one-man-s-mission-6202013</guid>
+      <pubDate>Thu, 20 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Affirmative Action: Fall Down, Get Back Up Again (6.19.2013)</title>
+      <link>http://www.thestory.org/stories/affirmative-action-fall-down-get-back-again-6192013</link>
+      <description>
+        &lt;p&gt;An African American student’s struggle to succeed
+        at the University of Texas. Also in this show: high-wire walker Nik
+        Wallenda on his planned walk across the Grand Canyon; and two little
+        girls explain the “worst haircut ever.”&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_19_thestory_supreme_court_affirmative_action.mp3"
+        length="24111229" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/affirmative-action-fall-down-get-back-again-6192013</guid>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Voting Rights Act Of 1964 (06.18.13)</title>
+      <link>http://www.thestory.org/stories/voting-rights-act-1964-061813</link>
+      <description>
+        &lt;p&gt;As the U.S. Supreme Court considers the Voting
+        Rights Act of 1965, host Dick Gordon speaks with an activist and a
+        resident who were at the center of the civil rights fight in Holmes
+        County, Miss.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_18_thestory_voting_rights_act.mp3"
+        length="24108620" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/voting-rights-act-1964-061813</guid>
+      <pubDate>Tue, 18 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>South Boston And Whitey Bulger (6.17.2013)</title>
+      <link>http://www.thestory.org/stories/south-boston-and-whitey-bulger-6172013</link>
+      <description>
+        &lt;p&gt;Guest host Phoebe Judge speaks with Michael Patrick
+        McDonald, who is covering the Whitey Bulger trial. He grew up in South
+        Boston, where Bulger is a legend. Also in this show: Haley
+        Morris-Cafiero, an overweight photographer, has been taking photos of
+        people who mock her body; and Kristen Ulmer, who became one of the best
+        skiers in the world by taking jumps without fear.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_17_thestory_south_boston_whitey_bulger.mp3"
+        length="24110148" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/south-boston-and-whitey-bulger-6172013</guid>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Opera Couple (6.14.2013)</title>
+      <link>http://www.thestory.org/stories/opera-couple-6142013</link>
+      <description>
+        &lt;p&gt;Ailyn Perez and Stephen Costello are
+        husband-and-wife opera singers. They talk with Dick about the
+        peculiarity of their relationship, which includes competing to see who
+        can hold the longest notes, and trying to get cast in the same
+        productions so that they can spend time together. Also in this show,
+        wildlife photographer Tim Laman tells Dick about his journey to
+        photograph every species of the Birds of Paradise. It took him 8 years
+        and 18 expeditions to do it, and there are still a few he was not able
+        to capture. The feathers and colors are hard to believe.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_14_thestory_the_opera_couple.mp3"
+        length="24099796" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/opera-couple-6142013</guid>
+      <pubDate>Fri, 14 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>After Innocence: Exoneration in America, Day 4</title>
+      <link>http://www.thestory.org/stories/after-innocence-exoneration-america-day-4</link>
+      <description>
+        &lt;p&gt;Jennifer Thompson was a college student when she
+        was raped. During the attack Jennifer tried to memorize what the man
+        looked like so she could identify him later. Jennifer identified Ronald
+        Cotton. Cotton served 11 years before he was exonerated. Also, Lamonte
+        Armstrong was sentenced to life in prison for the murder of his elderly
+        next door neighbor. He was exonerated last summer and is still trying
+        to negotiate life in a world he was removed from for years.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_13_thestory_jennifer_thompson.mp3"
+        length="24103079" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/after-innocence-exoneration-america-day-4</guid>
+      <pubDate>Thu, 13 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>After Innocence: Exoneration In America, Day 3</title>
+      <link>http://www.thestory.org/stories/after-innocence-exoneration-america-day-3</link>
+      <description>
+        &lt;p&gt;Jason Puracal was working in Nicaragua when he was
+        wrongfully convicted of drug trafficking, money laundering, and
+        organized crime.  He was sentenced to 22 years in one of the worst
+        prisons in the country.  His sister Janis led the charge for his
+        release. Also, a forensic DNA expert who has devoted himself to using
+        new DNA technology to free the innocent.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_12_thestory_the_puracals.mp3"
+        length="24111229" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/after-innocence-exoneration-america-day-3</guid>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>After Innocence: Exoneration in America, Day 2</title>
+      <link>http://www.thestory.org/stories/after-innocence-exoneration-america-day-2</link>
+      <description>
+        &lt;p&gt;After Innocence: Exoneration in America. Day 2.
+        Guests includeScott Hornoff, a Rhode Island police officer convicted of
+        murder in 1996. Since his exoneration he has been unable to find work
+        in this country so he has become a private security consultant in
+        Afghanistan. Also: Julie Baumer, convicted of child abuse for what
+        later was determined to be “shaken baby syndrome”. She was exonerated.
+        And the man at the Innocence Project who receives thousands of letters
+        from prisoners hoping to be freed. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013-6_11_thestory_scott_hornoff.mp3"
+        length="24116663" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/after-innocence-exoneration-america-day-2</guid>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>After Innocence: Exoneration in America, Day 1 </title>
+      <link>http://www.thestory.org/stories/after-innocence-exoneration-america-day-1</link>
+      <description>
+        &lt;p&gt;Guests include Gloria Killian, released after
+        discovery of evidence suppression. Ray Towler, exonerated by DNA
+        evidence. Brian Banks, exonerated and signed with football’s Atlanta
+        Falcons. John Thompson, freed after prosecutor’s deathbed admission of
+        suppression of evidence.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_10_thestory_gloria_killian.mp3"
+        length="24107690" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/after-innocence-exoneration-america-day-1</guid>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Americans Spying On Americans (6.7.2013)</title>
+      <link>http://www.thestory.org/stories/americans-spying-americans-672013</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;William Binney has worked in
+        intelligence since the Cold War. As a cryptomathemetician, he helped
+        create a new surveillance system called Thin Thread. When he discovered
+        that Thin Thread was being used to spy on American citizens, he spoke
+        up and eventually left the agency. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;
+        span&gt;Also in this show, listeners respond to our show about
+        preventive mastectomies, and a veteran of D-Day remembers hiding a
+        sketchbook in his gas mask and drawing while his fellow soldiers slept.
+        &lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_07_thestory_nsa_whistleblower.mp3"
+        length="24099796" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/americans-spying-americans-672013</guid>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Fighting For Workers&amp;#039; Rights in Bangladesh (6.6.2013)</title>
+      <link>http://www.thestory.org/stories/fighting-workers-rights-bangladesh-662013</link>
+      <description>
+        &lt;p&gt;In late April, more than 1,100 garment workers were
+        killed in Bangladesh when the eight-story Rana Plaza building
+        collapsed. Labor activist Kalpona Akter has come from Bangladesh to
+        attend tomorrow&#039;s Walmart shareholders meeting in Bentonville,
+        Arkansas, where she will try to convince shareholders that Walmart must
+        protect the safety of factory workers. Also in this show, an audio
+        portrait of a Washington, D.C. bus driver, and a cardiologist who
+        closes his office and enrolls in Divinity School. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_6_6_thestory_labor_rights_in_bangladesh.mp3"
+        length="24104393" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/fighting-workers-rights-bangladesh-662013</guid>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Employment: Security Hacker (6.05.2013)</title>
+      <link>http://www.thestory.org/stories/employment-security-hacker-6052013</link>
+      <description>
+        &lt;p&gt;Jim Stickley is a professional hacker. Companies
+        hire him to attempt to hack into their financial information, and
+        identify weaknesses in their security practices.  &lt;/p&gt;&lt;p&gt;
+        Also in this show, Cici McNair, a Paris-based private investigator who
+        got her start hiding in bushes, and a man who is obsessively searching
+        for every single Tim Wallach baseball card. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_05_thestory_professional_hacker.mp3"
+        length="24112125" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/employment-security-hacker-6052013</guid>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Preventive Mastectomy: Two Women, Two Choices (6.4.2013)</title>
+      <link>http://www.thestory.org/stories/preventive-mastectomy-two-women-two-choices-642013</link>
+      <description>
+        &lt;p&gt;When actress Angelina Jolie told the world she’d
+        elected to have a preventative double mastectomy, people paid
+        attention.  For Nell Boeschenstein, the news story felt personal. Nell
+        also carries the BRCA-1 gene. After her aunt and sister developed
+        breast cancer, Nell had a preventative double mastectomy at 31 years
+        old. Also in this show, Dr. Daniela Drake, who was diagnosed with LCIS,
+        was surprised when her doctor recommended a preventative mastectomy.
+        She decided not to have the procedure.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_6_4_thestory_nell_boeschenstein.mp3"
+        length="24118473" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/preventive-mastectomy-two-women-two-choices-642013</guid>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>This Land Is My Land (6.3.2013)</title>
+      <link>http://www.thestory.org/stories/land-my-land-632013</link>
+      <description>
+        &lt;p&gt;Except when it isn&#039;t.&lt;/p&gt;&lt;p&gt;We
+        check back in with Julia Trigg Crawford who is fighting the TransCanada
+        Corporation as it lays pipe for the XL Pipeline. The digging has begun
+        – in spite of ongoing litigation. &lt;/p&gt;&lt;p&gt;Also in this show,
+        Sandra Steingraber was arrested on Earth Day, and spent 15 days in
+        jail, for protesting against hydraulic fracturing (fracking).  After
+        many years in laboratories, and speaking at panels, she felt the time
+        had come to use her body in direct-action protest. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_06_03_thestory_julia_trigg_crawford_0.mp3"
+        length="24106274" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/land-my-land-632013</guid>
+      <pubDate>Mon, 03 Jun 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>When I Was Kidnapped (5.31.2013)</title>
+      <link>http://www.thestory.org/stories/when-i-was-kidnapped-5312013</link>
+      <description>
+        &lt;p&gt;Rose Maura Lorre was kidnapped in 1982 in New
+        Jersey. She was seven years old. While many kidnapping survivors aren
+        &#039;t able to tell their stories, Rose says she told her story a lot.
+        Too much, she says. Also in this show, an audio portrait from Moore,
+        OK, where a tornado tore through town killing 24 people. And, a
+        sculptor recreates Rome’s Trevi Fountain…in cardboard. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_31_thestory_kidnapped.mp3"
+        length="24099796" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/when-i-was-kidnapped-5312013</guid>
+      <pubDate>Fri, 31 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Maxed Out On Everest (5.30.2013)</title>
+      <link>http://www.thestory.org/stories/maxed-out-everest-5302013</link>
+      <description>
+        &lt;p&gt;Hundreds of people are now attempting to climb Mt.
+        Everest every year. National Geographic&#039;s Mark Jenkins says the
+        mountain, once tackled only by professional climbers, has become
+        accessible to anyone who can afford to pay to go up and down.  And as a
+        result, the mountain is being ruined by garbage, human excrement, and
+        even bodies of deceased climbers. Also in this show, we learn about a
+        new kind of aircraft, the “Aeroscraft.&quot;  It’s a space-age looking
+        machine that’s almost as big as a football field and able to carry 50
+        tons or more.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_5_30_thestory_mt_everest.mp3"
+        length="24106901" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/maxed-out-everest-5302013</guid>
+      <pubDate>Thu, 30 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Journey From North Korea (5.29.2013)</title>
+      <link>http://www.thestory.org/stories/journey-north-korea-5292013</link>
+      <description>
+        &lt;p&gt;On today’s show we meet a woman who fled North
+        Korea for China, only to be abducted by human traffickers and sold into
+        a marriage. Next, Dick talks with filmmaker Ann Shin, who tells us that
+        it’s not uncommon for defectors to escape North Korea for China and
+        find themselves in greater danger.  Ann Shin’s documentary, &lt;em&gt;
+        The Defector&lt;/em&gt;, follows women as they escape. Also in this
+        show, a photographer documents the edges of the country – where North
+        Korea borders South Korea and China. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_29_thestory_the_defector.mp3"
+        length="24112961" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/journey-north-korea-5292013</guid>
+      <pubDate>Wed, 29 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>An American Promise (5.28.2013)</title>
+      <link>http://www.thestory.org/stories/american-promise-5282013</link>
+      <description>
+        &lt;p&gt;Over the course of 13 years, Joe Brewster and
+        Michele Stephenson filmed their son’s progress through the elite New
+        York City prep school called Dalton. As an African-American family in a
+        predominantly white school, the years were challenging for everyone, as
+        seen in the family’s documentary &lt;em&gt;American Promise&lt;/em&gt;.
+        &lt;/p&gt;&lt;p&gt;Also: Comedian Alaudin Ullah’s parents are Bengali,
+        and were among the many East Indian and Bangladeshi immigrants who
+        moved to New York at the turn of the 20th century. Alaudin has been
+        exploring the lost history of his old neighborhood, often called
+        “Bengali Harlem.” &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_28_thestory_american_promise.mp3"
+        length="24111438" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/american-promise-5282013</guid>
+      <pubDate>Tue, 28 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Memorial Day At Camp Buehring, Kuwait (5.27.2013)</title>
+      <link>http://www.thestory.org/stories/memorial-day-camp-buehring-kuwait-5272013</link>
+      <description>
+        &lt;p&gt;We hear two dispatches from US Military base Camp
+        Buehring. Chaplain Matt Stewart describes a wall of photographs of
+        fallen soldiers, and tank mechanic Sgt. Roberto Abelardo, who witnessed
+        the Twin Towers falling on 9-11 and decided to enlist.&lt;/p&gt;&lt;p
+        &gt;Also: William B.J. Ganem knows what it’s like to lose a limb. For
+        him, it happened in Iraq. He’s currently working to support victims of
+        the Boston bombing in their recoveries through the Semper Fi Fund. And:
+        Dick talks to Anna Diebold about her father’s memoirs of rescuing
+        downed pilots in Burma during World War II.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_27_thestory_memorial_day.mp3"
+        length="24106274" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/memorial-day-camp-buehring-kuwait-5272013</guid>
+      <pubDate>Mon, 27 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Pizza Purist And The Cutgirl (5.24.2013)</title>
+      <link>http://www.thestory.org/stories/pizza-purist-and-cutgirl-5242013</link>
+      <description>
+        &lt;p&gt;When other kids were out riding bikes, Anthony
+        Mangieri was in his grandmother’s kitchen experimenting with ancient
+        dough leavening methods. Now he makes some of the best pizzas in the
+        country. Also in this show: A trip to the Capitol Pool Checkers Club
+        where men with nicknames like the Hammer, the Pressure Man, and the
+        Razor gather to play checkers; and how one woman stopped being a ring
+        girl, and started treating the wounds of boxers.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_24_thestory_pizza_chef.mp3"
+        length="24099796" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/pizza-purist-and-cutgirl-5242013</guid>
+      <pubDate>Fri, 24 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Free Help Guy Wants To Make Your Life Better (5.23.2013)</title>
+      <link>http://www.thestory.org/stories/free-help-guy-wants-make-your-life-better-5232013</link>
+      <description>
+        &lt;p&gt;In his six-month project to offer help to anyone,
+        the Free Help Guy has been asked to give a tour of London, to allow a
+        hypnotist to hypnotize him – and a few favors he’s had to decline. Also
+        in this show: listeners respond to the story of Adam Davis, an adjunct
+        professor who says he’d make more money working at Starbucks; and Tio
+        Hardiman, director of Ceasefire Illinois, says violence is down in the
+        past weeks and he credits intensive one-on-one mediation.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/5_23_13_thestory_free_help_guy.mp3"
+        length="24105020" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/free-help-guy-wants-make-your-life-better-5232013</guid>
+      <pubDate>Thu, 23 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Witnessing The Moore Tornado From Air And Ground (5.22.2013)</title>
+      <link>http://www.thestory.org/stories/witnessing-moore-tornado-air-and-ground-5222013</link>
+      <description>
+        &lt;p&gt;A photographer, a helicopter pilot, and an
+        emergency room manager talk about their lives since the devastating
+        tornado in Moore. Also in this show: Host Dick Gordon speaks with Ahmed
+        Errachidi, a Moroccan chef who was held in Guantanamo Bay, Cuba, for
+        five-and-a-half years under suspicion that he had ties with al-Qaeda; A
+        former inmate at the U.S. Disciplinary Barracks at Ft. Leavenworth,
+        Kan., on being held at a facility run by the same guards who work at
+        the Guantanamo Bay detention camp; how the world’s biggest diamond
+        robber’s escape was undone by a half-eaten salami sandwich.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_5_22_the_story_moore_oklahoma.mp3"
+        length="24118600" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/witnessing-moore-tornado-air-and-ground-5222013</guid>
+      <pubDate>Wed, 22 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        53 Days Without Food: Prisoners On Hunger Strike As A Last Resort
+        (5.21.2013)
+      </title>
+      <link>http://www.thestory.org/stories/53-days-without-food-prisoners-hunger-strike-last-resort-5212013</link>
+      <description>
+        &lt;p&gt;Tommy McKearney, a former prisoner and IRA fighter,
+        tells host Dick Gordon about the Irish Republican Army hunger strikes
+        in Northern Ireland in the 1980s – and his own 53 days without food.
+        Also in this show: When Japanese Americans were freed from World War II
+        internment camps, the government surplus foods they’d been fed found
+        their way into their kitchens; and the story of a popular Asian fusion
+        restaurant that started off in a backyard.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_21_thestory_hunger_strike.mp3"
+        length="24112334" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/53-days-without-food-prisoners-hunger-strike-last-resort-5212013</guid>
+      <pubDate>Tue, 21 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Man Who Quantifies Every Moment Of Every Day (5.20.2013)</title>
+      <link>http://www.thestory.org/stories/man-who-quantifies-every-moment-every-day-5202013</link>
+      <description>
+        &lt;p&gt;Chris Dancy is wired up to measure himself every
+        moment of every work day, and says keeping metrics on himself has made
+        him a better employee and will be a tool for the future of the
+        workplace. Also in this show: Roman Mars of the 99% Invisible podcast
+        looks back to a time when we sent information using pneumatic  tubes -
+        the kind you might still see in a drive through bank; and host Dick
+        Gordon checks in with Ben Harris and Scott Haren, who suffer from ALS
+        and have tried to make their own medicine to stop the progress of their
+        disease.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_20_thestory_quantified_man.mp3"
+        length="24112075" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/man-who-quantifies-every-moment-every-day-5202013</guid>
+      <pubDate>Mon, 20 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Piecing Together The Delage Coupe (5.17.2013)</title>
+      <link>http://www.thestory.org/stories/piecing-together-delage-coupe-5172013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with David Cooper, the
+        part-sleuth, part-mechanic who restored a rare 1937 Delage Aerosport
+        Coupe. Also in this show: Alex McLean, the photographer-pilot who
+        documented New York City’s hidden skyline gardens.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_17_thestory_delage_coupe_0.mp3"
+        length="24099540" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/piecing-together-delage-coupe-5172013</guid>
+      <pubDate>Fri, 17 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>How To Win A Green Card: Abdi’s Story Continues (5.16.2013)</title>
+      <link>http://www.thestory.org/stories/how-win-green-card-abdi-s-story-continues-5162013</link>
+      <description>
+        &lt;p&gt;The Story has followed the life of a school teacher
+        from Somalia since 2009. Earlier this month, he found out that he won a
+        visa lottery to the U.S. Also in this show: Philanthropist Melinda
+        Gates has had conversations with mothers across the globe, and says
+        women everywhere want to find the best care for their children. For
+        years, dozens of runners dropped their gear at Boston’s Crossroads
+        Irish Bar, took the subway out of town, and ran the Boston Marathon
+        route back to the bar. And Bob Stewart, who owned Carousel Arcade in
+        Seaside Heights, N.J., says the town is as ready as it can be for the
+        summer season.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/5_16_13_thestory_win_a_green_card.mp3"
+        length="24108606" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/how-win-green-card-abdi-s-story-continues-5162013</guid>
+      <pubDate>Thu, 16 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Editing An Encyclopedia That Changes By The Minute (5.15.2013)</title>
+      <link>http://www.thestory.org/stories/editing-encyclopedia-changes-minute-5152013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Sue Gardner, director
+        of the Wikimedia Foundation, about how she got to her job, and how the
+        organization is working to bring more female editors to the site. Also
+        in this show: Actor Scott Shepherd on reading  every single word of the
+        Great Gatsby on stage.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_15_thestory_wikipedia.mp3"
+        length="24111011" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/editing-encyclopedia-changes-minute-5152013</guid>
+      <pubDate>Wed, 15 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Towing Away The Costa Concordia Cruise Ship (5.14.2013)</title>
+      <link>http://www.thestory.org/stories/towing-away-costa-concordia-cruise-ship-5142013</link>
+      <description>
+        &lt;p&gt;Todd Busch, who is overseeing the removal of the
+        Costa Concordia cruise ship, explains to host Dick Gordon how the
+        vessel is expected to be towed away by December this year. Also in this
+        show: Benji Smith and Emily Lau were celebrating their honeymoon aboard
+        the Costa Concordia cruise ship when it started sinking; and
+        illustrator Matt Kish tells host Dick Gordon why he made a work of art
+        for each page of the classic Moby-Dick.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_14_thestory_costa_concordia.mp3"
+        length="24116151" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/towing-away-costa-concordia-cruise-ship-5142013</guid>
+      <pubDate>Tue, 14 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Political Season = Gun Buying Season (5.13.2013)</title>
+      <link>http://www.thestory.org/stories/political-season-gun-buying-season-5132013</link>
+      <description>
+        &lt;p&gt;Larry Hyatt runs one of the biggest gun shops in
+        the country, and he tells host Dick Gordon that as some politicians
+        have tried to tighten gun legislation, he’s seen a growing demand for
+        “high capacity” guns. Also in this show: William Vizzard, who tracked
+        down firearms for almost three decades, talks about laws that helped
+        his work; Jay Wachtel, a veteran firearms trafficking investigator,
+        talks about the man power needed to bust a gun ring; Malcolm Shabazz,
+        who was killed last week in Mexico, spoke to Dick in 2011 about his
+        grandfather Malcolm X.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_13_thestory_gun_buying_season.mp3"
+        length="24109917" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/political-season-gun-buying-season-5132013</guid>
+      <pubDate>Mon, 13 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>One String Is All You Need (5.10.2013)</title>
+      <link>http://www.thestory.org/stories/one-string-all-you-need-5102013</link>
+      <description>
+        &lt;p&gt;Andrew Chin, a.k.a. Brushy One-String, has crafted
+        a unique style playing a one-string guitar and singing in an utterly
+        original voice. Also in this show: The teenage diary of Melissa, who
+        didn’t mean to get pregnant, but when she did, she tried to build the
+        family she herself never had.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_10_thestory_one_string.mp3"
+        length="24103452" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/one-string-all-you-need-5102013</guid>
+      <pubDate>Fri, 10 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Invisible Girls (5.9.2013)</title>
+      <link>http://www.thestory.org/stories/invisible-girls-592013</link>
+      <description>
+        &lt;p&gt;Contributor Scott Carrier lived in the Salt Lake
+        City neighborhood where 14-year-old Elizabeth Smart was abducted and
+        held, and he says that we can be blind to what is right in front of us.
+        Also in this show: Dr. T. Berry Brazelton, who is 95 and one of the
+        country’s most respected pediatricians; and the original Teenage Diary
+        from Josh Cutler, whose struggled with Tourette&#039;s Syndrome.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_09_thestory_invisible_girls.mp3"
+        length="24102303" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/invisible-girls-592013</guid>
+      <pubDate>Thu, 09 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Her Majesty&amp;#039;s Philosophers (5.8.2013)</title>
+      <link>http://www.thestory.org/stories/her-majestys-philosophers-582013</link>
+      <description>
+        &lt;p&gt;Alan Smith taught philosophy and literature to
+        violent criminals in prison until he realized he was “becoming more of
+        the prison than I wanted to be.” Also in this show: the original
+        Teenage Diary of Frankie Lewchuck, who was really close to his dad –
+        until the day his dad almost went away for good.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_08_thestory_debating_philosophy_in_prison.mp3"
+        length="24116408" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/her-majestys-philosophers-582013</guid>
+      <pubDate>Wed, 08 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Cracks In The Building (5.7.2013)</title>
+      <link>http://www.thestory.org/stories/cracks-building-572013</link>
+      <description>
+        &lt;p&gt;Charles Kernaghan, a labor rights activist, has
+        pushed for governments to prioritize the rights of workers in
+        Bangladesh and elsewhere. He talks with host Dick Gordon about the
+        recent tragedy there. Also in this show: Adam Davis, who taught eight
+        science classes at three colleges in Pittsburgh, has met with the
+        United Steelworkers to talk about unionizing; and the Teenage Diary of
+        Juan, who crossed the Rio Grande into the U.S. with his family.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_07_thestory_cracks_in_the_building_1.mp3"
+        length="24112334" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/cracks-building-572013</guid>
+      <pubDate>Tue, 07 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        No Papers and Unafraid: Daniela Pelaez Lobbies Washington
+        (5.6.2013)
+      </title>
+      <link>http://www.thestory.org/stories/no-papers-and-unafraid-daniela-pelaez-lobbies-washington-562013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Daniela Pelaez, a
+        freshman at Dartmouth College who is undocumented and has been lobbying
+        the U.S. Senate’s &quot;Gang of Eight&quot; for immigration reform.
+        Also in this show: trumpet player Arturo Sandoval talks about the
+        enormous range of his instrument; and the Teenage Diary of Amanda
+        Brand, who had figured out she was gay, although her family insisted
+        she was just going through a phase.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_06_thestory_no_papers_and_unafraid.mp3"
+        length="24106274" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/no-papers-and-unafraid-daniela-pelaez-lobbies-washington-562013</guid>
+      <pubDate>Mon, 06 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Calling Syria: Aleppo and Damascus (5.3.2013)</title>
+      <link>http://www.thestory.org/stories/calling-syria-aleppo-and-damascus-532013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon checks in with Issa Touma, a
+        resident of the Syrian city of Aleppo and occasional guest of the
+        program. Also in this show: A Syrian living in the U.S. calls a friend
+        who left Damascus and one who remains; and a story about the day blues
+        guitarist Robert Johnson and cellist Pablo Casals recorded music.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_03_thestory_calling_syria_aleppo_and_damascus_0.mp3"
+        length="24099540" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/calling-syria-aleppo-and-damascus-532013</guid>
+      <pubDate>Fri, 03 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>&amp;#039;We Are Human. Talk To Us&amp;#039; (5.2.2013)</title>
+      <link>http://www.thestory.org/stories/we-are-human-talk-us-522013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Carlos Warner, an
+        attorney for 11 detainees held in Guantánamo Bay, Cuba. As many as 130
+        have been on hunger strike there since February. Also in this show: an
+        essay from Samir Nahi al Hasan Moqbel, a detainee on hunger strike in
+        Guantánamo Bay; George Bien, a Hungarian who was sent to a Soviet
+        prison camp in Siberia; and Ivette Cepeda, a celebrated Cuban singer
+        who is bringing her music to the U.S.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_5_02_thestory_guantanamo_hunger_strike.mp3"
+        length="24106901" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/we-are-human-talk-us-522013</guid>
+      <pubDate>Thu, 02 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Crowd Sourcing Cold Cases (5.1.2013)</title>
+      <link>http://www.thestory.org/stories/crowd-sourcing-cold-cases-512013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Michele McNamara,
+        author of the True Crime Diary blog. She and a community of online
+        sleuths have helped detectives take a new look at the Golden State
+        Killer, and other cold cases. Also in this show: contributor Roman Mars
+        considers how architects allow and encourage space; and the man
+        traveling the world to record the language of Jesus.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_05_01_thestory_la_crime_sleuth.mp3"
+        length="24110046" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/crowd-sourcing-cold-cases-512013</guid>
+      <pubDate>Wed, 01 May 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Locked Up In A Modern-Day Debtors’ Prison (4.30.2013)</title>
+      <link>http://www.thestory.org/stories/locked-modern-day-debtors-prison-4302013</link>
+      <description>
+        &lt;p&gt;Jack Dawley has been jailed three times in Ohio for
+        failure to pay outstanding debts, and along with the American Civil
+        Liberties Union has filed a complaint for what he says is an outdated –
+        and unconstitutional – practice. Also in this show: Christopher
+        Cassucio, whose “Strike Debt” group is aiming to erase people’s debts,
+        answers listener response; and Anna &amp;amp; Elizabeth, the
+        guitar-and-banjo duo that makes movies called &quot;crankies&quot;.&lt;
+        /p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_30_thestory_locked_up_in_a_modern_day_debtors_prison.mp3"
+        length="24116152" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/locked-modern-day-debtors-prison-4302013</guid>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        A Soldier&amp;#039;s Eye: Rediscovered Photos From Vietnam
+        (4.29.2013)
+      </title>
+      <link>http://www.thestory.org/stories/soldiers-eye-rediscovered-photos-vietnam-4292013</link>
+      <description>
+        &lt;p&gt;Charlie Haughey shot almost 2000 photographs of his
+        fellow soldiers in Vietnam, but left the photo negatives untouched in a
+        box for 45 years. Recently, a friend encouraged him to digitize the
+        images and Charlie says he didn&#039;t sleep for days after revisiting
+        the faces from his past.&lt;/p&gt;&lt;p&gt;Plus, at 91 years old, Henry
+        Stone is still at work as a record producer. He remembers producing one
+        of Ray Charles&#039; earliest recordings, and hand-selling early R&amp;
+        amp;B albums in barbershops.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_29_thestory_vietnam_photographer_1.mp3"
+        length="24106018" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/soldiers-eye-rediscovered-photos-vietnam-4292013</guid>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        The Real-Life Analysts Who Led The ‘Manhunt’ For bin Laden
+        (4.26.2013)
+      </title>
+      <link>http://www.thestory.org/stories/real-life-analysts-who-led-manhunt-bin-laden-4262013</link>
+      <description>
+        &lt;p&gt;The untold story of the “sisterhood” of CIA
+        analysts that led the two-decade investigation and search for Osama bin
+        Laden. &quot;Manhunt&quot; premieres on HBO next week. Also in this
+        show: GQ&#039;s Michael Hainey on his obsession with his father&#039;s
+        secret life and mysterious death.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_26_13_thestory_manhunt.mp3"
+        length="24111839" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/real-life-analysts-who-led-manhunt-bin-laden-4262013</guid>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The Tigris, The Euphrates And The Dictator (4.25.2013)</title>
+      <link>http://www.thestory.org/stories/tigris-euphrates-and-dictator-4252013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Azzam Alwash, an
+        exiled Iraqi who returned to his country to restore the marshes between
+        the Tigris and the Euphrates that Saddam Hussein had drained. Also in
+        this show: Gabriel Kahane wand the Orpheus Chamber Orchestra are at
+        Carnegie Hall on Saturday with a new work based on the 1930s WPA
+        American Guide Series; and the story of passenger pigeons, which
+        flourished in America over 100 years ago and were systematically
+        extinguished.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_25_thestory_iraqi_marshes.mp3"
+        length="24109976" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/tigris-euphrates-and-dictator-4252013</guid>
+      <pubDate>Thu, 25 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>For Chechen Refugee, Bombings Open Wounds Of War (4.24.2013)</title>
+      <link>http://www.thestory.org/stories/chechen-refugee-bombings-open-wounds-war-4242013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks with Magomed Imakaev, a
+        Chechen refugee living near Boston who’s grappling with the bombings
+        allegedly perpetrated by two brothers who share his roots. Also in this
+        show: Casey McKinlay, who pulled off a 21-hour dive through underwater
+        caves that connect sinkholes near Tallahassee, Fla.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_24_thestory_chechen_family.mp3"
+        length="24112729" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/chechen-refugee-bombings-open-wounds-war-4242013</guid>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>West, Texas, Is Home (4.23.2013)</title>
+      <link>http://www.thestory.org/stories/west-texas-home-4232013</link>
+      <description>
+        &lt;p&gt;Host Dick Gordon speaks to Nita Gerik, the widow of
+        the chief of the West, Texas, Volunteer Fire Department, and her son
+        Jim Gerik, who is overseeing donations from the community. Then, Dick
+        speaks with a piper and firefighter who will perform at a service for
+        first responders killed in the West explosions. Also: Dotan Negrin,
+        who’s traveling and playing his upright piano in New York City, New
+        Orleans, San Antonio, and all the way to Panama.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_23_thestory_west_texas_is_home_0.mp3"
+        length="24110454" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/west-texas-home-4232013</guid>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>News In 140 Characters (4.22.2013)</title>
+      <link>http://www.thestory.org/stories/news-140-characters-4222013</link>
+      <description>
+        &lt;p&gt;Guest host Sean Cole sits down with Brooke
+        Gladstone, host of NPR&#039;s On The Media, to figure out what was true
+        and not true on social media after the Boston Marathon bombings. Also
+        in this show: Nick Flynn, a poet and writer who grew up in and around
+        Boston, reads a poem about the Boston Marathon; and host Dick Gordon
+        speaks with Benoit Rolland about making bows for violin, viola and
+        cello.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_22_thestory_news_in_140_characters.mp3"
+        length="24106274" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/news-140-characters-4222013</guid>
+      <pubDate>Mon, 22 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>A Man And His Piano (4.18.2013)</title>
+      <link>http://www.thestory.org/stories/man-and-his-piano-4182013</link>
+      <description>
+        &lt;p&gt;Dick tracks down Dotan Negrin, who’s traveling and
+        playing his upright piano in New York City, New Orleans, San Antonio,
+        and all the way through Central America to Panama.&lt;/p&gt;&lt;p&gt;
+        Also in this show: The story of a trio of sisters who created a small
+        trick to make their mother think they could communicate with spirits;
+        and a 21-hour dive through the underwater caves that connect sinkholes
+        beneath the ground in Florida.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_19_thestory_dothan_negrin.mp3"
+        length="24103570" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/man-and-his-piano-4182013</guid>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Finding A Way Out Of North Korea (4.18.2013)</title>
+      <link>http://www.thestory.org/stories/finding-way-out-north-korea-4182013</link>
+      <description>
+        &lt;p&gt;Sokeel Park of the U.S.-based NGO Liberty in North
+        Korea talks to host Dick Gordon about how young North Koreans use
+        illegal cell phones to get outside information and how security has
+        been tightened in the country.&lt;/p&gt;&lt;p&gt;Also in this show: The
+        story of two teenagers in a small North Korean town from Barbara
+        Demick’s book Nothing to Envy: Ordinary Lives in North Korea; and the
+        story of the Kowloon Walled City in Hong Kong and how it grew in an
+        organic way.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_18_thestory_finding_a_way_out_of_north_korea.mp3"
+        length="24113237" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/finding-way-out-north-korea-4182013</guid>
+      <pubDate>Thu, 18 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Combing The Debris - After The Bombing (4.17.2013)</title>
+      <link>http://www.thestory.org/stories/combing-debris-after-bombing-4172013</link>
+      <description>
+        &lt;p&gt;Malcolm Brady, former assistant director of the
+        ATF, tells host Dick Gordon about the 1993 World Trade Center bombing,
+        and how they dug into the rubble to get the frame of the van that
+        carried the explosives - and identify who rented it.&lt;/p&gt;&lt;p&gt;
+        Also in this show: Scotland Yard Detective Chief InspectorArnie Cook
+        worked in anti-terrorism for more than 30 years during a series of
+        bombings in London; and map maker Dave Imus set out to create a better
+        map of the U.S. - one that delineates the states and rivers and forests
+        with more clarity.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_17_thestory_combing_debris_after_bombings.mp3"
+        length="24117917" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/combing-debris-after-bombing-4172013</guid>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Bombings At The Boston Marathon (4.16.2013)</title>
+      <link>http://www.thestory.org/stories/bombings-boston-marathon-4162013</link>
+      <description>
+        &lt;p&gt;Dick Gordon speaks with longtime Boston Marathon
+        announcer and runner Kathrine Switzer, who was covering the event on
+        Monday and witnessed the explosions.&lt;/p&gt;&lt;p&gt;Also in this
+        show: When Kimberly Wasserman learned that health problems and death
+        were tied to the smokestacks in her Chicago neighborhood, she got them
+        shut down and was awarded a Goldman Environmental Award for her work;
+        and writer Christopher Hanson is campaigning to get journalist Edward
+        Kennedy recognition for reporting on the end of World War II.&lt;/p&gt;
+        &lt;p&gt; &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_16_thestory_boston_bombing.mp3"
+        length="24114950" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/bombings-boston-marathon-4162013</guid>
+      <pubDate>Tue, 16 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Strike Debt (4.15.13)</title>
+      <link>http://www.thestory.org/stories/strike-debt-41513</link>
+      <description>
+        &lt;p&gt;A group of activists is purchasing student debt
+        from collectors and simply &quot;forgiving it.&quot; Also: New York
+        City has agreed to reimburse the Occupy Wall Street Library
+        fordestroyed books. And: a font that is more readable for those with
+        dyslexia. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_15_thestory_strike_debt.mp3"
+        length="24106018" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/strike-debt-41513</guid>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Puppeteer Basil Twist And The Rite Of Spring (4.12.13)</title>
+      <link>http://www.thestory.org/stories/puppeteer-basil-twist-and-rite-spring-41213</link>
+      <description>
+        &lt;p&gt;The Rite of Spring by Igor Stravinsky almost caused
+        a riot when it was first seen 100 years ago. Today it has become a
+        classic and is being celebrated on its centenary- yet eyebrows can
+        still be raised when a puppeteer stages his version. That production
+        premieres today. Also: Wildlife photographer Tim Laman tells Dick about
+        his journey to photograph every species of the Birds of Paradise.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_12_thestory_the_puppeteer_basil_twist_and_the_right_of_spring.mp3"
+        length="24099796" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/puppeteer-basil-twist-and-rite-spring-41213</guid>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>On The Bus With Candidate Margaret Thatcher (4.11.2013)</title>
+      <link>http://www.thestory.org/stories/bus-candidate-margaret-thatcher-4112013</link>
+      <description>
+        &lt;p&gt;Dick speaks with retired BBC broadcaster Robin
+        Lustig about his many years of listening and watching former Prime
+        Minister Thatcher. Also: Roman Mars on design, Soviet-style. And: Dick
+        speaks with Jim Scott about his battle with the CIA to find out why
+        they agency wiretapped his father.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_11_thestory_on_the_bus_with_candidate_margaret_thatcher.mp3"
+        length="24107690" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/bus-candidate-margaret-thatcher-4112013</guid>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Journey To The Centroid Of The Country (4.10.2013)</title>
+      <link>http://www.thestory.org/stories/journey-centroid-country-4102013</link>
+      <description>
+        &lt;p&gt;Orion Magazine writer Jeremy Miller explores the
+        exact center of the U.S. population, and finds that its movement has
+        paralleled the country&#039;s westward expansion and development. Also
+        in this show: An audio meditation on riding the bus to work every day;
+        and artist Bo Gehring makes portraits with a slow moving camera set to
+        music.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_10_thestory_journey_to_the_centroid_of_the_country.mp3"
+        length="24112125" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/journey-centroid-country-4102013</guid>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Calling Home To Baghdad (4.9.2013)</title>
+      <link>http://www.thestory.org/stories/calling-home-baghdad-492013</link>
+      <description>
+        &lt;p&gt;Ten years after the U.S. invasion of Iraq, host
+        Dick Gordon and interpreter Ahmed Fadaam recall covering the capital
+        city. Also in this show: Khalid Ansari, who still thinks of the deaths
+        he witnessed during the war; and Mohammed Hafudh, a civil servant in
+        the oil industry who plans to run for office to try and reform the
+        government.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_09_thestory_calling_home_to_baghdad.mp3"
+        length="24111438" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/calling-home-baghdad-492013</guid>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Mom&amp;#039;s Death And The End Of Life Talk (4.5.2013)</title>
+      <link>http://www.thestory.org/stories/moms-death-and-end-life-talk-452013</link>
+      <description>
+        &lt;p&gt;Charlie Ornstein, a journalist covering
+        health-care, was the go-to guy in his family on all questions medical.
+        But when he found his mother was on life support, he found he had few
+        answers. Also in this show: We hear from listeners about our interview
+        with healthcare advocate Pat Palmer who analyzes bills from hospitals.
+        And Mexican painter Frida Kahlo’s clothes were locked up for 50 years.
+        We speak with the woman who created an exhibit with them.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_08_thestory_end_of_life_1.mp3"
+        length="24106274" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/moms-death-and-end-life-talk-452013</guid>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Game Of Change (4.5.2013)</title>
+      <link>http://www.thestory.org/stories/game-change-452013</link>
+      <description>
+        &lt;p&gt;In 1963, Jerry Harkness was the African American
+        captain of the Loyola Chicago Ramblers.  He tells Dick about the moment
+        he realized he was part of history. Also in this show: Brian Banks, who
+        spent more than five years in jail on a false rape accusation, has just
+        signed with the Atlanta Falcons; and the Grammy-winning, Nashville
+        banjo picker Jim Mills in his own words.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_05_thestory_game_of_change.mp3"
+        length="24119440" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/game-change-452013</guid>
+      <pubDate>Fri, 05 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Stop And Frisk On Trial In New York City (4.4.2013)</title>
+      <link>http://www.thestory.org/stories/stop-and-frisk-trial-new-york-city-442013</link>
+      <description>
+        &lt;p&gt;We hear from Nicholas Peart, who has been stopped
+        by the New York City Police Department three times, and is one of the
+        young men behind a lawsuit against the department’s “Stop and Frisk”
+        policy. Also in this show: Radio Rookies reporters Ephraim Fromer and
+        Temitayo Fagbenle interview Police Commissioner Raymond Kelly. And
+        David Keller talks about teaching philosophy and values to students who
+        are Mormon.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_04_thestory_stop_and_frisk_on_trial.mp3"
+        length="24114364" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/stop-and-frisk-trial-new-york-city-442013</guid>
+      <pubDate>Thu, 04 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        A Veteran&amp;#039;s Wife Is Diagnosed With PTSD - From Reliving
+        The War With Him (4.3.2013)
+      </title>
+      <link>http://www.thestory.org/stories/veterans-wife-diagnosed-ptsd-reliving-war-him-432013</link>
+      <description>
+        &lt;p&gt;Since Kat Honaker’s husband returned from serving
+        in Iraq, she has been reliving the war with him, and has been diagnosed
+        with PTSD. Also in this show: U.S. Army psychiatrist Dr. Stephen
+        Xenakis talks about new approaches to cope with Traumatic Brain Injury,
+        or TBI.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_04_03_thestory_army_reservist_wife_diagnosed_with_ptsd_0.mp3"
+        length="24115478" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/veterans-wife-diagnosed-ptsd-reliving-war-him-432013</guid>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Creating Art To Survive (4.2.2013)</title>
+      <link>http://www.thestory.org/stories/creating-art-survive-422013</link>
+      <description>
+        &lt;p&gt;Zofia Abramowicz, a Polish Catholic, was taken to
+        Auschwitz during World War II, wrote poetry, and buried it in the camp.
+        Sean Cole talks to the keeper of these poems, Cherie Braun. Also in
+        this show: Sean talks with Thomas Schultz, who found thousands of
+        paintings in a garage when he was looking at houses on Long Island. The
+        paintings were by Arthur Pinajian and are now worth $30 million.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2103_4_02_thestory_creating_art_to_survive.mp3"
+        length="24113803" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/creating-art-survive-422013</guid>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>The $400 Tylenol Pill, And How To Get A Better Price (4.1.2013)</title>
+      <link>http://www.thestory.org/stories/400-tylenol-pill-and-how-get-better-price-412013</link>
+      <description>
+        &lt;p&gt;Pat Palmer, who has worked in a hospital billing
+        office, shares her tricks for finding savings in the fine print of a
+        medical bill. Also in this show: John Fischer turned to researchers and
+        philosophers as they attempt to answer the question, &quot;What happens
+        next?&quot;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_4_1_thestory_the_400_dollar_hospital_tylenol.mp3"
+        length="24114667" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/400-tylenol-pill-and-how-get-better-price-412013</guid>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        &amp;quot;Pee Wee&amp;quot; Kirkland and Harlem&amp;#039;s Rucker
+        Park (3.29.13)
+      </title>
+      <link>http://www.thestory.org/stories/pee-wee-kirkland-and-harlems-rucker-park-32913</link>
+      <description>
+        &lt;p&gt;Jumping at the Sky: the stories of Harlem&#039;s
+        street ball great &quot;Pee Wee&quot; Kirkland, and the choir that is
+        no longer silent.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_29_thestory_game_on.mp3"
+        length="24101943" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/pee-wee-kirkland-and-harlems-rucker-park-32913</guid>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Shadow Lives (3.28.13)</title>
+      <link>http://www.thestory.org/stories/shadow-lives-32813</link>
+      <description>
+        &lt;p&gt;Guest host Sean Cole explores the lives of Islamic
+        women and men who have been rounded up, sent to prison or put under
+        surveillance. Victoria Brittain has spent years meeting and
+        interviewing the families of suspects imprisoned in London and
+        Guantanamo Bay, Cuba and that is the basis for her book Shadow Lives:
+        The Forgotten Women of the War on Terror.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_28_thestory_shadow_lives.mp3"
+        length="24107259" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/shadow-lives-32813</guid>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>A Family Unmade And Made Again</title>
+      <link>http://www.thestory.org/stories/family-unmade-and-made-again</link>
+      <description>
+        &lt;p&gt;Producers Alex Kotlowitz and Amy Drozdowska capture
+        the unfolding connection between a man and his adopted adopted son.
+        Also in this show: the story of a beep baseball player.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_27_thestory_family_unmade_and_made.mp3"
+        length="24112867" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/family-unmade-and-made-again</guid>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>98 Minutes (3.26.13)</title>
+      <link>http://www.thestory.org/stories/98-minutes-32613</link>
+      <description>
+        &lt;p&gt;WBEZ and the Center for Public Integrity
+        investigate the case of a man who’s burned by water and chemicals at
+        work.&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/98-minutes-32613</guid>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Seven Things You Should Never Say to a Vet (3.25.13)</title>
+      <link>http://www.thestory.org/stories/seven-things-you-should-never-say-vet-32513</link>
+      <description>
+        &lt;p&gt;Jason Moon, an Iraq War vet, talks to guest host
+        Sean Cole about the seven things people say to veterans that alienate
+        and anger them.&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/seven-things-you-should-never-say-vet-32513</guid>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Saving Groucho (3.22.13)</title>
+      <link>http://www.thestory.org/stories/saving-groucho-32213</link>
+      <description>
+        &lt;p&gt;Guest host Sean Cole speaks to Andy Marx about the
+        phone call his grandfather Groucho Marx got from a man offering him the
+        archives of his hit show &quot;You Bet Your Life.&quot;&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/saving-groucho-32213</guid>
+      <pubDate>Fri, 22 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Telling The Untellable (3.22.13)</title>
+      <link>http://www.thestory.org/stories/telling-untellable-32213</link>
+      <description>
+        &lt;p&gt;Alicia Partnoy, who was held in a secret prison in
+        Argentina, speaks to Sean Cole about the place called the Little
+        School. The naming of the Buenos Aires cardinal as pope has brought up
+        memories of the country’s Dirty War, during which thousands of citizens
+        were kidnapped and killed.&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/telling-untellable-32213</guid>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>Penpals With The Unabomber (3.20.13)</title>
+      <link>http://www.thestory.org/stories/penpals-unabomber-32013</link>
+      <description>
+        &lt;p&gt;A professor exhanges hundreds of letters with
+        &quot;The Unabomber&quot; about the perils of technology, and an audio
+        tour of vintage transcription disks from WWII.&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/penpals-unabomber-32013</guid>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>
+        Spiritual Warfare: Evangelical Protestants Convert Catholics
+        (3.19.13)
+      </title>
+      <link>http://www.thestory.org/stories/spiritual-warfare-evangelical-protestants-convert-catholics-31913</link>
+      <description>
+        &lt;p&gt;Spirituality becomes entangled with politics in
+        Guatemala, plus Luc Sante on the &quot;novels&quot; of Félix Fénéon and
+        a reading from poet Charles Bernstein.&lt;/p&gt;
+      </description>
+      <guid isPermaLink="false">http://www.thestory.org/stories/spiritual-warfare-evangelical-protestants-convert-catholics-31913</guid>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 18, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-18-2013-show</link>
+      <description>
+        &lt;p&gt;As the Senate begins to consider a ban on assault
+        weapons, we offer a collection of stories about Americans and guns.&lt;
+        /p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_18_thestory_guns_in_america.mp3"
+        length="24105762" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-18-2013-show</guid>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 15, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-15-2013-show</link>
+      <description>
+        &lt;p&gt;Writer Alexandra Fuller told her husband she wanted
+        to leave. Minutes later, he had a terrible accident and the end of her
+        relationship became entwined with the accident. Also in this show:
+        Producer Phoebe Judge talks to Claudine Andre of the Democratic
+        Republic of Congo, who helped establish a sanctuary for bonobos.&lt;/p
+        &gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_15_thestory_alexandra_fuller_falling.mp3"
+        length="24099284" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-15-2013-show</guid>
+      <pubDate>Fri, 15 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 14, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-14-2013-show</link>
+      <description>
+        &lt;p&gt;Western writer Terry Tempest Williams spent 25
+        years sorting out the message her mother gave her when she left her
+        three shelves of blank journals. &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_14_thestory_terry_tempest_williams.mp3"
+        length="24103915" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-14-2013-show</guid>
+      <pubDate>Thu, 14 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 13, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-13-2013-show</link>
+      <description>
+        &lt;p&gt;Cardinal Cormac Murphy-O&#039;Connor, who was
+        inside the Vatican in 2005, describes the process of deciding who would
+        become the new pope. Also in this show: a gay Catholic priest presses
+        from the inside for change; and Basque sheepherders reveal cooking
+        traditions from their work out west.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_13_thestory_bbc_the_conclave_in_rome.mp3"
+        length="24111869" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-13-2013-show</guid>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 12, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-12-2013-show</link>
+      <description>
+        &lt;p&gt;Dick speaks with Travis Williams about the heavy
+        caseload he carries in Hall Country, Ga., and to Al Flora, the chief
+        public defender of Luzerne County, Pa., about having to decline new
+        cases. Also in this show: A young man in a youth residential facility
+        calls home to speak with his family.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_12_thestory_public_defender_full.mp3"
+        length="24112901" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-12-2013-show</guid>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 11, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-11-2013-show</link>
+      <description>
+        &lt;p&gt;Dick calls Japanese farmer Mitsuo Sato, who lived
+        close to the Fukushima Daiichi reactor before the tsunami in 2011. He
+        is part of a crew that is decontaminating the soil in his farming
+        community. Also in this show: Japanese photographer Shimpei Tekada
+        collected contaminated soil and placed it on film; and photographer
+        Wendy Ewald re-visits an Innu community after 40 years.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_11_thestory_fukushima_farmer.mp3"
+        length="24112692" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-11-2013-show</guid>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 -0500</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 08, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-08-2013-show</link>
+      <description>
+        &lt;p&gt;Rafael Simón Jiménez was a high school friend of
+        Venezuela President Hugo Chavez, who died this week. As the country
+        mourns, Dick speaks with Rafael Simón about the leader as a young man.
+        Also in this show: A dreamy trip to Brazil, Argentina and France
+        through the music of Dom la Nena.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_08_thestory_saying_goodbye_to_hugo_chavez.mp3"
+        length="24099944" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-08-2013-show</guid>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 07, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-07-2013-show</link>
+      <description>
+        &lt;p&gt;Betsy Andreu is married to a cycling teammate of
+        Lance Armstrong. She spoke out on his taking banned drugs, and was
+        reviled for her statements. Also in this show: Dick speaks with
+        23-year-old Mayor Alex Morse, who has been running Holyoke, Mass., for
+        a year.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2102_3_07_thestory_lance_armstrong.mp3"
+        length="24105587" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-07-2013-show</guid>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 06, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-06-2013-show</link>
+      <description>
+        &lt;p&gt;A conversation with Terence White, the longest
+        serving foreign correspondent in Afghanistan. Also in this show: We
+        hear from soldiers in Afghanistan about the equipment and personal
+        items they carry.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_06_thestory_hard_rain_in_afghanistan.mp3"
+        length="24115004" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-06-2013-show</guid>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 05, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-05-2013-show</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Ken Dufalla watches for fish kills and
+        chemicals in the water from coal and fracking sites in Green County,
+        Pa. Also in this show: Author Carter Sickels reads from “The Evening
+        Hour,” and Jim Hays commissioned a novel about the succession of Texas
+        to make a point about the federal government.&lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_05_thestory_riverkeeper.mp3"
+        length="24111822" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-05-2013-show</guid>
+      <pubDate>Tue, 05 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 04, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-04-2013-show</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Dick speaks with Mike Hankey about how
+        he got his start hunting down meteor fragments in rural Amish farmland.
+        Also in this show: Dick speaks with Olympic wrestler Clarissa Chun who
+        is joining forces to lobby the International Olympic Committee to keep
+        wrestling in Olympic competition; and writer John Irving, a life-long
+        wrestler, speaks from his exercise room.&lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_03_04_thestory_great_meteor_hunt.mp3"
+        length="24105378" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-04-2013-show</guid>
+      <pubDate>Mon, 04 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>March 01, 2013 Show</title>
+      <link>http://www.thestory.org/stories/march-01-2013-show</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Known as a vocalist for the 1970&#039;s
+        rock band Roxy Music, Bryan Ferry strips some of his classics of vocals
+        and reinvents them in the style of 1920&#039;s jazz. Tune in to hear
+        Avalon with trumpet, banjo and bass sax. Also in this show: 99%
+        Invisible explores a Philadelphia park that became a mecca for skaters.
+        &lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_3_1_thestory_bryan_ferry.mp3"
+        length="48206994" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/march-01-2013-show</guid>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 28, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-28-2013-show</link>
+      <description>
+        &lt;p&gt;Building a car, a battery powered car that can go
+        up to 400 miles per hour. It&#039;s under way at Ohio State University.
+        Also in this show: We call David Cundall in Burma to check in on his
+        attempt to dig up old World War II era planes – Spitfires; a story
+        about a slave who hides in a wooden box and sends himself to freedom;
+        and a poem from Martin Espada.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2012_2_28_thestory_start_your_engines.mp3"
+        length="24108573" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-28-2013-show</guid>
+      <pubDate>Thu, 28 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 27, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-27-2013-show</link>
+      <description>
+        &lt;p&gt;When Peter Hessler first arrived in the remote
+        Chinese river town of Fuling, the only way to get there was by boat.
+        Recently, he went back for a visit to explore the changes that the
+        Three Gorges Dam has made. Also in this show: Dick speaks with Denise
+        Dennis, who is in a charge of her family farm - one that reaches back
+        to before Abraham Lincoln was born.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_27_thestory_return_to_fuling_china.mp3"
+        length="24109153" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-27-2013-show</guid>
+      <pubDate>Wed, 27 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 26, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-26-2013-show</link>
+      <description>
+        &lt;p&gt;Today we have three gun stories about how and why
+        people own a firearm. Also in this show: Dick and producer Phoebe Judge
+        read letters about gun owner Yang Li and his passionate defense of gun
+        ownership.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_26_thestory_pistol_shotgun_rifle.mp3"
+        length="24111438" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-26-2013-show</guid>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 25, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-25-2013-show</link>
+      <description>
+        &lt;p&gt;Dick speaks with Richard Wright, who has negotiated
+        the release of kidnap victims in Mexico and other countries. Also in
+        this show: Photographer Katie Orlinsky was based in Mexico and she saw
+        that women were caught up in the drug wars and began to document it;
+        and a soundscape of the Sonoran desert between Arizona and Mexico.&lt;
+        /p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_25_thestory_negotiating_with_kidnappers.mp3"
+        length="24105378" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-25-2013-show</guid>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 22, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-22-2013-show</link>
+      <description>
+        &lt;p&gt;Mark Lijek was working in the American embassy in
+        Iran when it was taken over by militant students. He tells the
+        real-life story behind the film Argo. Also in this show: Filmmaker Wim
+        Wenders tells Claes Andreaasson that having a story board from start to
+        finish is boring, and he likes to make things up as he goes; and
+        Fereshta Kazemi left Hollywood to act in her childhood country -
+        Afghanistan.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_22_thestory_the_real_argo.mp3"
+        length="24098900" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-22-2013-show</guid>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 21, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-21-2013-show</link>
+      <description>
+        &lt;p&gt;Growing up with Anne Frank – a childhood friend
+        remembers a vibrant, curious girl. Also in this show: Robert MacFarlane
+        reads from his latest, &quot;The Old Ways: A Journey On Foot.&quot;
+        &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_21_thestory_growing_up_with_anne_frank.mp3"
+        length="24107050" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-21-2013-show</guid>
+      <pubDate>Thu, 21 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 20, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-20-2013-show</link>
+      <description>
+        &lt;p&gt;Charles Hill has a list of paintings he loves -
+        some have been stolen, some he has recovered. Also: Dick speaks with
+        documentary filmmaker Kate Schermerhorn about After Happily Ever After.
+        &lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_2_20_thestory_follow_that_painting.mp3"
+        length="24113750" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-20-2013-show</guid>
+      <pubDate>Wed, 20 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 19, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-19-2013-show</link>
+      <description>
+        &lt;p&gt;Dick speaks with Yang Li, who was born and raised
+        in China. As soon as he got his citizenship in the U.S., he bought a
+        gun.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013-02-19_thestory_gun_is_freedom.mp3"
+        length="24111438" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-19-2013-show</guid>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 18, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-18-2013-show</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Host Dick Gordon spends a day in Sandy
+        Seaside Heights, N.J., where some peole are rebuilding, and others are
+        chosing not to. Also in this show: the group of fishermen who started
+        their own business to sell directly to consumers; and listener reaction
+        to the story of Brian Banks, who spent five years in prison on a
+        wrongful rape accusation.&lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2012_2_18_thestory_seasideheights_rebuilds_boardwalk_full.mp3"
+        length="24114364" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-18-2013-show</guid>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 18, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-18-2013-show-0</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Hassina Sherjan, a frequent guest from
+        Afghanistan, tells Dick that Kabul has gotten safer, and that she often
+        goes out at night for poetry recitals. Also in this show: an Afghan
+        photographer who returned 22 years after he left as a refugee; two
+        women who greet returning U.S. soldiers at the Dallas/ Fort Worth
+        airport; poet Naomi Shihab Nye on maamoul cookies; and a 24-hour music
+        festival.&lt;/span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/the_story_092512.mp3"
+        length="24116663" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-18-2013-show-0</guid>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 15, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-15-2013-show</link>
+      <description>
+        &lt;p&gt;&lt;span&gt;Dick speaks with Justin Torres, author
+        of We The Animals, about his inspiration: Dorothy Allison. He then
+        speaks with Dorothy Allison about her inspiration: Toni Morrison. Also
+        in this show: Artist Toni Scott’s life-size castings of slaves.&lt;
+        /span&gt;&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013-02-15_thestory_justintorres_dorothyallison.mp3"
+        length="24098900" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-15-2013-show</guid>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 14, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-14-2013-show</link>
+      <description>
+        &lt;p&gt;Dick speaks with Toby and Itzhak Perlman about
+        their marriage of &lt;strong&gt;46&lt;/strong&gt; years, and how they
+        met at music camp and became friends listening to classical music on
+        records.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013-02-14_the_story_toby_itzhak_perlman.mp3"
+        length="24100989" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-14-2013-show</guid>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 13, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-13-2013-show</link>
+      <description>
+        &lt;p&gt;British Parliament member Jack Straw tells the
+        story of a killing spree in Scotland in 1997 and how it spurred a gun
+        ban.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_13_the_story_how_the_gun_ban_in_england_was_passed.mp3"
+        length="24107468" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-13-2013-show</guid>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 12, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-12-2013-show</link>
+      <description>
+        &lt;p&gt;South African Thembi Simelane has been seeking the
+        truth of the disappearance of her sister, who was interrogated and
+        tortured during apartheid&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_12_the_story_truth_and_reconciliation.mp3"
+        length="24108513" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-12-2013-show</guid>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+    <item>
+      <title>February 11, 2013 Show</title>
+      <link>http://www.thestory.org/stories/february-11-2013-show</link>
+      <description>
+        &lt;p&gt;Guest host Sean Cole goes to see his mother about a
+        family rifle left to him by his grandfather.&lt;/p&gt;
+      </description>
+      <enclosure
+        url="http://www.podtrac.com/pts/redirect.mp3/www.thestory.org/sites/default/files/public/audio/show/2013_02_11_the_story_inheriting_the_family_gun.mp3"
+        length="24106423" type="audio/mpeg" />
+      <guid isPermaLink="false">http://www.thestory.org/stories/february-11-2013-show</guid>
+      <pubDate>Mon, 11 Feb 2013 00:00:00 -0600</pubDate>
+      <source url="http://www.thestory.org/archive/podcast.xml">APM:  The Story</source>
+    </item>
+  </channel>
+</rss>

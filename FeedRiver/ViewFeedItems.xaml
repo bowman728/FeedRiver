@@ -1,0 +1,27 @@
+﻿<Window x:Class="FeedRiver.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		x:Name="FeedRiverWindow"
+		Title="Feed River"
+		Width="437"
+		Height="530"
+		Margin="0" SizeToContent="WidthAndHeight">
+
+	<Grid Background="#FFDCCBB7" Margin="0">
+		<TextBox x:Name="UriTextBox" Width="326"
+				 Height="20"
+				 Margin="10,10,0,0"
+				 HorizontalAlignment="Left"
+				 VerticalAlignment="Top"
+				 Text="&#xD;&#xA;"
+				 TextWrapping="Wrap" />
+		<Button x:Name="ViewFeedButton" Width="75"
+				Margin="341,10,0,0"
+				HorizontalAlignment="Left"
+				VerticalAlignment="Top"
+				Content="View Feed" Click="ViewFeedButton_Click" />
+		<TextBlock x:Name="FeedTextBlock" HorizontalAlignment="Left" Height="396" Margin="10,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="406" Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}"/>
+		<ProgressBar x:Name="DownloadProgressBar" HorizontalAlignment="Left" Height="27" Margin="10,436,0,0" VerticalAlignment="Top" Width="406"/>
+
+	</Grid>
+</Window>
