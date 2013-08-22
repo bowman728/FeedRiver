@@ -34,7 +34,6 @@ namespace FeedRiver.FeedTypes
 		public int TotalReadItems { get; set; }
 		public int TotalUnReadItems { get; set; }
 		public int TotalAvailableItems { get; set; }
-		public virtual BindingList<ItemBase<T>> Items { get; set; }
 	}
 
 }

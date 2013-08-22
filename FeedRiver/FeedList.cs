@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using FeedRiver.FeedTypes;
 
@@ -9,11 +10,11 @@ namespace FeedRiver
     {
         private static readonly Lazy<FeedList> Instance = new Lazy<FeedList>(() => new FeedList());
 
-        private FeedList() { FeedBindingList = new BindingList<ItunesFeed>(); }
+        private FeedList() { FeedBindingList = new List<ItunesFeed>(); }
 
         public static FeedList GetInstance { get { return Instance.Value; } }
 
-        public BindingList<ItunesFeed> FeedBindingList { get; set; }
+        public List<ItunesFeed> FeedBindingList { get; set; }
 
 
         

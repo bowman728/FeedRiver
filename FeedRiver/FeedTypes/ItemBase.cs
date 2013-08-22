@@ -1,13 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FeedRiver.FeedTypes
 {
+
 	public abstract class ItemBase<T>
 	{
+		protected ItemBase(string itemTitle,
+						   string itemDescription,
+						   string itemLink,
+						   string itemPubDate,
+						   string itemArticleLink,
+						   string itemAudioLink,
+						   string itemAuthor
+						   )
+		{
+			ItemTitle = itemTitle;
+			ItemDescription = itemDescription;
+			ItemLink = itemLink;
+			ItemPubDate = itemPubDate;
+			ItemArticleLink = itemArticleLink;
+			ItemAudioLink = itemAudioLink;
+			ItemAuthor = itemAuthor;
+		}
+
+		protected ItemBase() {}
+
 		public String ItemTitle { get; set; }
 		public String ItemDescription { get; set; }
 		public String ItemLink { get; set; }
@@ -19,9 +36,6 @@ namespace FeedRiver.FeedTypes
 		//System Vars
 		public int ItemRead { get; set; }
 		public int ItemUnRead { get; set; }
-
-
-
-
 	}
+
 }

@@ -3,27 +3,50 @@
 namespace FeedRiver.FeedTypes
 {
 
-	public class ItunesFeedItems
+	public class ItunesFeedItems : ItemBase<ItunesFeedItems>
 	{
-		public String ItemTitle { get; set; }
 
-		public String ItemSubTitle { get; set; }
+		public ItunesFeedItems() {}
 
-		public String ItemKeyWords { get; set; }
+		public ItunesFeedItems(string itemTitle,
+							   string itemDescription,
+							   string itemLink,
+							   string itemPubDate,
+							   string itemArticleLink,
+							   string itemAudioLink,
+							   string itemAuthor,
+							   string itunesItemSubTitle,
+							   string itunesItemKeyWords,
+							   string itunesItemEpisodeNotes,
+							   string itunesItemPublishDate,
+							   string itunesItemDuration,
+							   bool isRead)
+		: base(
+		itemTitle,
+		itemDescription,
+		itemLink,
+		itemPubDate,
+		itemArticleLink,
+		itemAudioLink,
+		itemAuthor)
+		{
+			ItunesItemSubTitle = itunesItemSubTitle;
+			ItunesItemKeyWords = itunesItemKeyWords;
+			ItunesItemEpisodeNotes = itunesItemEpisodeNotes;
+			ItunesItemPublishDate = itunesItemPublishDate;
+			ItunesItemDuration = itunesItemDuration;
+			IsRead = isRead;
+		}
 
-		public String ItemAuthor { get; set; }
+		public String ItunesItemSubTitle { get; set; }
 
-		public String ItemDescription { get; set; }
+		public String ItunesItemKeyWords { get; set; }
 
-		public String ItemEpisodeNotes { get; set; }
+		public String ItunesItemEpisodeNotes { get; set; }
 
-		public DateTime ItemPublishDate { get; set; }
+		public String ItunesItemPublishDate { get; set; }
 
-		public String ItemAudioLink { get; set; }
-
-		public TimeSpan ItemDuration { get; set; }
-
-		public String ItemArticleLink { get; set; }
+		public String ItunesItemDuration { get; set; }
 
 		public bool IsRead { get; set; }
 	}

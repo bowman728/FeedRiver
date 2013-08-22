@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace FeedRiver.FeedTypes
 {
@@ -16,12 +17,13 @@ namespace FeedRiver.FeedTypes
 						  string itunesAuthor,
 						  string itunesOwnerName,
 						  string itunesOwnerEmail,
-						  string itunesSubtitle) : base(title,
-														description,
-														link,
-														language,
-														copyRight,
-														category)
+						  string itunesSubtitle
+		) : base(title,
+				 description,
+				 link,
+				 language,
+				 copyRight,
+				 category)
 		{
 			ItunesImage = itunesImage;
 			ItunesCategory = itunesCategory;
@@ -39,6 +41,7 @@ namespace FeedRiver.FeedTypes
 		public String ItunesOwnerName { get; set; }
 		public String ItunesOwnerEmail { get; set; }
 		public String ItunesSubtitle { get; set; }
+		public BindingList<ItunesFeedItems> FeedItems { get; set; } 
 	}
 
 }
