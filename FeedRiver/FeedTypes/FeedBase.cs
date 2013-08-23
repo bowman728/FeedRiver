@@ -22,7 +22,8 @@ namespace FeedRiver.FeedTypes
 			Category = category;
 		}
 
-		protected FeedBase() { }
+		protected FeedBase() {FeedItemsBindingList = new BindingList<ItunesFeedItems>();}
+
 		public String Title { get; set; }
 		public String Description { get; set; }
 		public String Link { get; set; }
@@ -34,6 +35,9 @@ namespace FeedRiver.FeedTypes
 		public int TotalReadItems { get; set; }
 		public int TotalUnReadItems { get; set; }
 		public int TotalAvailableItems { get; set; }
+
+		public BindingList<ItunesFeedItems> FeedItemsBindingList { get; set; }
 	}
 
 }
+

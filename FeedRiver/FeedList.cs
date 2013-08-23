@@ -1,23 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Linq;
+using System.Windows;
+using System.Xml.Linq;
 using FeedRiver.FeedTypes;
 
 namespace FeedRiver
 {
 
-    public class FeedList
-    {
-        private static readonly Lazy<FeedList> Instance = new Lazy<FeedList>(() => new FeedList());
+	public class FeedList
+	{
+		private static readonly Lazy<FeedList> Instance =
+		new Lazy<FeedList>(() => new FeedList());
 
-        private FeedList() { FeedBindingList = new List<ItunesFeed>(); }
+		private Func<XAttribute, String> _isAttributeEmpty =
+		x => x == null ? "" : (string)x;
 
-        public static FeedList GetInstance { get { return Instance.Value; } }
+		private Func<XElement, String> _isElementEmpty =
+		x => x == null ? "" : (string)x;
 
-        public List<ItunesFeed> FeedBindingList { get; set; }
+		private FeedList() {FeedBindingList = new BindingList<ItunesFeed>();}
+		public static FeedList GetInstance { get { return Instance.Value; } }
+		public BindingList<ItunesFeed> FeedBindingList { get; set; }
 
+		public int TotalFeeds { get; set; }
 
-        
-        }
+		public void AddNewFeed(XDocument xd)
+		{
+			
+			
+		}
+	}
 
 }

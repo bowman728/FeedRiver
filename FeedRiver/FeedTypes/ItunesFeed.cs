@@ -33,15 +33,16 @@ namespace FeedRiver.FeedTypes
 			ItunesSubtitle = itunesSubtitle;
 		}
 
-		public ItunesFeed() {}
+		public ItunesFeed()
+		{}
 
 		public String ItunesImage { get; set; }
 		public String ItunesCategory { get; set; }
 		public String ItunesAuthor { get; set; }
 		public String ItunesOwnerName { get; set; }
 		public String ItunesOwnerEmail { get; set; }
-		public String ItunesSubtitle { get; set; }
-		public BindingList<ItunesFeedItems> FeedItems { get; set; } 
+		public String ItunesSubtitle { get; set; }	
+
 	}
 
 }

@@ -1,11 +1,11 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace FeedRiver.FeedTypes
 {
 
 	public class ItunesFeedItems : ItemBase<ItunesFeedItems>
 	{
-
 		public ItunesFeedItems() {}
 
 		public ItunesFeedItems(string itemTitle,
@@ -39,16 +39,12 @@ namespace FeedRiver.FeedTypes
 		}
 
 		public String ItunesItemSubTitle { get; set; }
-
 		public String ItunesItemKeyWords { get; set; }
-
 		public String ItunesItemEpisodeNotes { get; set; }
-
 		public String ItunesItemPublishDate { get; set; }
-
 		public String ItunesItemDuration { get; set; }
-
 		public bool IsRead { get; set; }
+
 	}
 
 }
