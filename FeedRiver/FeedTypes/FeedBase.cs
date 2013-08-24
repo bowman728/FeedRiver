@@ -1,5 +1,5 @@
 ﻿using System;
-using System.ComponentModel;
+using System.Collections.ObjectModel;
 
 namespace FeedRiver.FeedTypes
 {
@@ -22,7 +22,7 @@ namespace FeedRiver.FeedTypes
 			Category = category;
 		}
 
-		protected FeedBase() {FeedItemsBindingList = new BindingList<ItunesFeedItems>();}
+		protected FeedBase() {FeedItemsMasterList = new ObservableCollection<ItunesFeedItems>();}
 
 		public String Title { get; set; }
 		public String Description { get; set; }
@@ -36,7 +36,7 @@ namespace FeedRiver.FeedTypes
 		public int TotalUnReadItems { get; set; }
 		public int TotalAvailableItems { get; set; }
 
-		public BindingList<ItunesFeedItems> FeedItemsBindingList { get; set; }
+		public ObservableCollection<ItunesFeedItems> FeedItemsMasterList { get; set; }
 	}
 
 }

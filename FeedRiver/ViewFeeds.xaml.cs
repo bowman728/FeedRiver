@@ -11,7 +11,7 @@ namespace FeedRiver
 	/// <summary>
 	///     Interaction logic for FeedRiverTest.xaml
 	/// </summary>
-	public partial class FeedRiverTest : Window
+	public partial class ViewFeeds : Window
 	{
 		private Func<XAttribute, String> _isAttributeEmpty =
 		x => x == null ? "" : (string)x;
@@ -19,7 +19,11 @@ namespace FeedRiver
 		private Func<XElement, String> _isElementEmpty =
 		x => x == null ? "" : (string)x;
 
-		public FeedRiverTest() {InitializeComponent();}
+		public ViewFeeds()
+		{
+			InitializeComponent();
+//			FeedDataGridControl.ItemsSource = FeedList.GetInstance.FeedMasterList;
+		}
 
 		private void TestButton_Click(object sender, RoutedEventArgs e)
 		{
@@ -64,28 +68,31 @@ namespace FeedRiver
 			foreach (ItunesFeed it in feedQuery)
 			{
 				foreach (ItunesFeedItems itf in itemQuery)
-					it.FeedItemsBindingList.Add(itf);
+					it.FeedItemsMasterList.Add(itf);
 
-				FeedList.GetInstance.FeedBindingList.Add(it);
+				FeedList.GetInstance.FeedMasterList.Add(it);
 			}
 		}
 
 		private void TestButton2_Click(object sender, RoutedEventArgs e)
 		{
-			TestTextBox.Text += FeedList.GetInstance.FeedBindingList[0].Title +
+		
+			FeedDataGridControl.Items.Refresh();
+
+			TestTextBox.Text += FeedList.GetInstance.FeedMasterList[0].Title +
 								Environment.NewLine;
 
 			TestTextBox.Text +=
-			FeedList.GetInstance.FeedBindingList[0].FeedItemsBindingList[0]
+			FeedList.GetInstance.FeedMasterList[0].FeedItemsMasterList[0]
 			.ItemTitle + Environment.NewLine;
 
 			TestTextBox.Text +=
-			FeedList.GetInstance.FeedBindingList[0].FeedItemsBindingList[2]
+			FeedList.GetInstance.FeedMasterList[0].FeedItemsMasterList[2]
 			.ItemTitle
 			+ Environment.NewLine;
 
 			TestTextBox.Text +=
-			FeedList.GetInstance.FeedBindingList[0].FeedItemsBindingList[4]
+			FeedList.GetInstance.FeedMasterList[0].FeedItemsMasterList[4]
 			.ItemTitle + Environment.NewLine;
 		}
 	}
